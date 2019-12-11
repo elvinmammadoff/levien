@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>favourites copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.0015234%" y1="11.6623428%" x2="50.0015234%" y2="127.19093%" id="linearGradient-1">
+            <stop stop-color="#E2E4EB" offset="0%"></stop>
+            <stop stop-color="#C7CAD2" offset="41.6095344%"></stop>
+            <stop stop-color="#E2E4EB" offset="97.3553093%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Home-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-905.000000, -921.000000)">
+        <g id="Group-13" transform="translate(165.000000, 644.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group-23" transform="translate(40.000000, 211.000000)">
+                <g id="Group-11" transform="translate(596.000000, 8.000000)">
+                    <g id="favourites-copy-4" transform="translate(104.000000, 58.000000)">
+                        <path d="M9.64350877,0.423681633 L12.0197193,5.18430612 L17.3330175,5.9477102 C17.9376491,6.03454898 18.1790526,6.76926122 17.7415789,7.19096531 L13.8967719,10.896549 L14.804386,16.1289755 C14.9076842,16.7243918 14.275614,17.1784653 13.7348421,16.8973408 L8.98245614,14.4269286 L4.23010526,16.8973408 C3.68933333,17.1784306 3.05726316,16.7243918 3.1605614,16.1289755 L4.06817544,10.896549 L0.223403509,7.19093061 C-0.214105263,6.76922653 0.0273333333,6.03458367 0.631964912,5.94767551 L5.94526316,5.18427143 L8.3214386,0.423681633 C8.59185965,-0.118063265 9.37308772,-0.118063265 9.64350877,0.423681633 Z" id="Shape"></path>
+                        <path d="M9.64350877,0.423681633 L12.0197193,5.18430612 L17.3330175,5.9477102 C17.9376491,6.03454898 18.1790526,6.76926122 17.7415789,7.19096531 L13.8967719,10.896549 L14.804386,16.1289755 C14.9076842,16.7243918 14.275614,17.1784653 13.7348421,16.8973408 L8.98245614,14.4269286 C9.24287719,4.73026735 9.46322807,0.0625183673 9.64350877,0.423681633 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
