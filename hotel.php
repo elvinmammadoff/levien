@@ -13,17 +13,17 @@
     <title>Royce - Hotel and Casino</title>
 
     <!-- All Styles -->
-    <link rel="stylesheet" href="css/main.min.css">
+    <link rel="stylesheet" href="src/assets/css/main.min.css">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="256x256"  href="img/favicon/android-chrome-256x256.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="img/favicon/android-chrome-192x192.png">    
-    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png" />
-    <link rel="icon" type="image/png" href="img/favicon/favicon.ico" />
-    <link rel="manifest" href="img/favicon/site.webmanifest" />
-    <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
+    <link rel="apple-touch-icon" sizes="180x180" href="src/assets/img/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="256x256"  href="src/assets/img/favicon/android-chrome-256x256.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="src/assets/img/favicon/android-chrome-192x192.png">    
+    <link rel="icon" type="image/png" sizes="32x32" href="src/assets/img/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/img/favicon/favicon-16x16.png" />
+    <link rel="icon" type="image/png" href="src/assets/img/favicon/favicon.ico" />
+    <link rel="manifest" href="src/assets/img/favicon/site.webmanifest" />
+    <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
     <meta name="msapplication-TileColor" content="#990100" />
     <meta name="theme-color" content="#ffffff" />       
     
@@ -191,7 +191,7 @@
                     
     <!-- Start .Banner-card__header -->
     <div class="Banner-card__header">
-        <img src="img/hotels/hotel2.png" alt="hotel1" title="hotel1" class="Hotel__image ml-0" />
+        <img src="src/assets/img/hotels/hotel2.png" alt="hotel1" title="hotel1" class="Hotel__image ml-0" />
 
         <!-- Start .Hotels__rating -->
 <div class="Hotels__rating">
@@ -202,11 +202,11 @@
     
 <!-- Start .stars -->
 <div class="stars">
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
 </div><!-- End /.stars -->
 
 </div><!-- End /.Hotels__rating -->
@@ -265,7 +265,7 @@
     <div class="container">     
         <div class="card card--padd">
             <div class="Hotel-header">
-    <img src="img/hotels/hotel2.png" alt="hotel1" title="hotel1" class="Hotel__image ml-0" /> 
+    <img src="src/assets/img/hotels/hotel2.png" alt="hotel1" title="hotel1" class="Hotel__image ml-0" /> 
     <div class="Hotel-header__title">
         <h3 class="title title--medium">Ритц Лондон</h3>
         <p class="text">
@@ -284,29 +284,29 @@
             <!-- Start .carousel-inner -->
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="img/slider/slider1.jpg" alt="First slide">
+                    <img class="d-block w-100" src="src/assets/img/slider/slider1.jpg" alt="First slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="img/slider/slider2.jpg" alt="Second slide">
+                    <img class="d-block w-100" src="src/assets/img/slider/slider2.jpg" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="img/slider/slider3.jpg" alt="Third slide">
+                    <img class="d-block w-100" src="src/assets/img/slider/slider3.jpg" alt="Third slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="img/slider/slider4.jpg" alt="Fourth slide">
+                    <img class="d-block w-100" src="src/assets/img/slider/slider4.jpg" alt="Fourth slide">
                 </div>
             </div><!-- End /.carousel-inner -->
 
             <!-- Start .carousel-control-prev -->
             <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <img src="img/icons/arrow-left.svg" alt="arrow-left" title="arrow-left" />
+                <img src="src/assets/img/icons/arrow-left.svg" alt="arrow-left" title="arrow-left" />
             </a><!-- End /.carousel-control-prev -->
 
             <!-- Start .carousel-control-next -->
             <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <img src="img/icons/arrow-right.svg" alt="arrow-right" title="arrow-right" />
+                <img src="src/assets/img/icons/arrow-right.svg" alt="arrow-right" title="arrow-right" />
             </a><!-- End /.carousel-control-next -->   
 
         </div>
@@ -318,22 +318,22 @@
                 <div class="row">
                     <div class="col-sm-6 col-md-3 col-lg-6">
                         <div data-target="#carouselExampleFade" data-slide-to="0" class="carousel-indicators__item active">
-                            <img class="d-block w-100" src="img/slider/slider1.jpg" alt="First-slide" title="First-slide" />
+                            <img class="d-block w-100" src="src/assets/img/slider/slider1.jpg" alt="First-slide" title="First-slide" />
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3 col-lg-6">
                         <div data-target="#carouselExampleFade" data-slide-to="1" class="carousel-indicators__item">
-                            <img class="d-block w-100" src="img/slider/slider2.jpg" alt="Second-slide" title="Second-slide" />
+                            <img class="d-block w-100" src="src/assets/img/slider/slider2.jpg" alt="Second-slide" title="Second-slide" />
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3 col-lg-6">
                         <div data-target="#carouselExampleFade" data-slide-to="2" class="carousel-indicators__item">
-                            <img class="d-block w-100" src="img/slider/slider3.jpg" alt="Third-slide" title="Third-slide" />
+                            <img class="d-block w-100" src="src/assets/img/slider/slider3.jpg" alt="Third-slide" title="Third-slide" />
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3 col-lg-6">
                         <div data-target="#carouselExampleFade" data-slide-to="3" class="carousel-indicators__item">
-                            <img class="d-block w-100" src="img/slider/slider4.jpg" alt="Fourth-slide" title="Fourth-slide" />
+                            <img class="d-block w-100" src="src/assets/img/slider/slider4.jpg" alt="Fourth-slide" title="Fourth-slide" />
                         </div>
                     </div>
                 </div>
@@ -386,8 +386,8 @@
                 <div class="row">
                     <div class="col-md-6 col-lg-6">
                         <div class="Hotels-table__sort">
-                            <img src="img/icons/number-one.svg" alt="number-one" title="number-one" />
-                            <img src="img/hotels/hotel1.png" alt="hotel1" title="hotel1" class="Hotel__image" />
+                            <img src="src/assets/img/icons/number-one.svg" alt="number-one" title="number-one" />
+                            <img src="src/assets/img/hotels/hotel1.png" alt="hotel1" title="hotel1" class="Hotel__image" />
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-6 valign">
@@ -409,11 +409,11 @@
     
 <!-- Start .stars -->
 <div class="stars">
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
 </div><!-- End /.stars -->
 
 </div><!-- End /.Hotels__rating -->
@@ -436,7 +436,7 @@
                     <div class="col-md-6 col-lg-6">
                         <div class="Hotels-table__sort">
                             <span class="Hotels-table__number">2</span>
-                            <img src="img/hotels/hotel2.png" alt="hotel1" title="hotel1" class="Hotel__image" />                                        
+                            <img src="src/assets/img/hotels/hotel2.png" alt="hotel1" title="hotel1" class="Hotel__image" />                                        
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-6 valign">
@@ -458,11 +458,11 @@
     
 <!-- Start .stars -->
 <div class="stars">
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
 </div><!-- End /.stars -->
 
 </div><!-- End /.Hotels__rating -->
@@ -641,13 +641,13 @@
 ============================== --> 
 
 <!-- All Main Scripts -->
-<script src="js/scripts.min.js"></script>
+<script src="src/assets/js/scripts.min.js"></script>
 
 <!-- Mobile - Burger Right Menu -->
-<script src="js/burger-menu.min.js"></script>
+<script src="src/assets/js/burger-menu.min.js"></script>
 
 <!-- Common --> 
-<script src="js/common.js"></script>
+<script src="src/assets/js/common.js"></script>
 
 </body>
 </html>

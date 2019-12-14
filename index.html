@@ -13,17 +13,17 @@
     <title>Royce - Hotel and Casino</title>
 
     <!-- All Styles -->
-    <link rel="stylesheet" href="css/main.min.css">
+    <link rel="stylesheet" href="src/assets/css/main.min.css">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="256x256"  href="img/favicon/android-chrome-256x256.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="img/favicon/android-chrome-192x192.png">    
-    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png" />
-    <link rel="icon" type="image/png" href="img/favicon/favicon.ico" />
-    <link rel="manifest" href="img/favicon/site.webmanifest" />
-    <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
+    <link rel="apple-touch-icon" sizes="180x180" href="src/assets/img/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="256x256"  href="src/assets/img/favicon/android-chrome-256x256.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="src/assets/img/favicon/android-chrome-192x192.png">    
+    <link rel="icon" type="image/png" sizes="32x32" href="src/assets/img/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/img/favicon/favicon-16x16.png" />
+    <link rel="icon" type="image/png" href="src/assets/img/favicon/favicon.ico" />
+    <link rel="manifest" href="src/assets/img/favicon/site.webmanifest" />
+    <link rel="mask-icon" href="src/assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
     <meta name="msapplication-TileColor" content="#990100" />
     <meta name="theme-color" content="#ffffff" />       
     
@@ -189,7 +189,7 @@
                     
     <!-- Start .Banner-card__header -->
     <div class="Banner-card__header">
-        <img src="img/icons/locked.svg" alt="locked" title="locked" />
+        <img src="src/assets/img/icons/locked.svg" alt="locked" title="locked" />
         <div class="Banner-card__label">
             <h3 class="Banner-card__title">
                 Все отели <div class="semibold">100% гарантированы</div>
@@ -308,8 +308,8 @@
                             <div class="row">
                                 <div class="col-md-6 col-lg-6">
                                     <div class="Hotels-table__sort">
-                                        <img src="img/icons/number-one.svg" alt="number-one" title="number-one" />
-                                        <img src="img/hotels/hotel1.png" alt="hotel1" title="hotel1" class="Hotel__image" />
+                                        <img src="src/assets/img/icons/number-one.svg" alt="number-one" title="number-one" />
+                                        <img src="src/assets/img/hotels/hotel1.png" alt="hotel1" title="hotel1" class="Hotel__image" />
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-6 valign">
@@ -331,11 +331,11 @@
     
 <!-- Start .stars -->
 <div class="stars">
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
 </div><!-- End /.stars -->
 
 </div><!-- End /.Hotels__rating -->
@@ -359,7 +359,7 @@
                                 <div class="col-md-6 col-lg-6">
                                     <div class="Hotels-table__sort">
                                         <span class="Hotels-table__number">2</span>
-                                        <img src="img/hotels/hotel2.png" alt="hotel1" title="hotel1" class="Hotel__image" />                                        
+                                        <img src="src/assets/img/hotels/hotel2.png" alt="hotel1" title="hotel1" class="Hotel__image" />                                        
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-6 valign">
@@ -381,11 +381,11 @@
     
 <!-- Start .stars -->
 <div class="stars">
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
 </div><!-- End /.stars -->
 
 </div><!-- End /.Hotels__rating -->
@@ -409,7 +409,7 @@
                                 <div class="col-md-6 col-lg-6">
                                     <div class="Hotels-table__sort">
                                         <span class="Hotels-table__number">3</span>
-                                        <img src="img/hotels/hotel3.png" alt="hotel1" title="hotel1" class="Hotel__image" />                                        
+                                        <img src="src/assets/img/hotels/hotel3.png" alt="hotel1" title="hotel1" class="Hotel__image" />                                        
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-6 valign">
@@ -431,11 +431,11 @@
     
 <!-- Start .stars -->
 <div class="stars">
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
 </div><!-- End /.stars -->
 
 </div><!-- End /.Hotels__rating -->
@@ -459,7 +459,7 @@
                                 <div class="col-md-6 col-lg-6">
                                     <div class="Hotels-table__sort">
                                         <span class="Hotels-table__number">4</span>
-                                        <img src="img/hotels/hotel4.png" alt="hotel1" title="hotel1" class="Hotel__image" />                                        
+                                        <img src="src/assets/img/hotels/hotel4.png" alt="hotel1" title="hotel1" class="Hotel__image" />                                        
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-6 valign">
@@ -481,11 +481,11 @@
     
 <!-- Start .stars -->
 <div class="stars">
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
 </div><!-- End /.stars -->
 
 </div><!-- End /.Hotels__rating -->
@@ -509,7 +509,7 @@
                                 <div class="col-md-6 col-lg-6">
                                     <div class="Hotels-table__sort">
                                         <span class="Hotels-table__number">5</span>
-                                        <img src="img/hotels/hotel5.png" alt="hotel1" title="hotel1" class="Hotel__image" />                                        
+                                        <img src="src/assets/img/hotels/hotel5.png" alt="hotel1" title="hotel1" class="Hotel__image" />                                        
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-6 valign">
@@ -531,11 +531,11 @@
     
 <!-- Start .stars -->
 <div class="stars">
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
-    <img src="img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
+    <img src="src/assets/img/icons/star.svg" alt="star" title="star" class="stars__item" />
 </div><!-- End /.stars -->
 
 </div><!-- End /.Hotels__rating -->
@@ -594,7 +594,7 @@
             <div class="testimonial-slider__review">
                 <div class="testimonial-slider__quote">
                     <h3 class="testimonial-slider__text">Ребята смогли быстро погрузиться в специфику нашего бизнеса, изучить процессы, предложить улучшения и способы модернизации существующей инфраструктуры.</h3>
-                    <img src="img/icons/quotes.svg" alt="quotes" class="testimonial-slider__icon" />                                                           
+                    <img src="src/assets/img/icons/quotes.svg" alt="quotes" class="testimonial-slider__icon" />                                                           
                 </div>
                 <div class="testimonial-slider__caret"></div> 
             </div><!-- End /.testimonial-slider__review -->
@@ -607,7 +607,7 @@
 
                     <!-- Start .testimonial-slider-avatar -->
                     <div class="testimonial-slider-avatar">
-                        <img src="img/avatars/avatar.png" alt="Svea Dmitiros" title="Svea Dmitiros" class="testimonial-slider-avatar__image" />
+                        <img src="src/assets/img/avatars/avatar.png" alt="Svea Dmitiros" title="Svea Dmitiros" class="testimonial-slider-avatar__image" />
                     </div><!-- End /.testimonial-slider-avatar -->
 
                     <h6 class="testimonial-slider__name semibold">Svea Dmitiros</h6>
@@ -625,7 +625,7 @@
             <div class="testimonial-slider__review">
                 <div class="testimonial-slider__quote">
                     <h3 class="testimonial-slider__text">Доброго времени суток. Спасибо за прекрасную работу. Хотела бы сейчас прийти к Вам с бутылочкой шампанского.</h3>
-                    <img src="img/icons/quotes.svg" alt="quotes" class="testimonial-slider__icon" />                                                           
+                    <img src="src/assets/img/icons/quotes.svg" alt="quotes" class="testimonial-slider__icon" />                                                           
                 </div>
                 <div class="testimonial-slider__caret"></div> 
             </div><!-- End /.testimonial-slider__review -->
@@ -638,7 +638,7 @@
 
                     <!-- Start .testimonial-slider-avatar -->
                     <div class="testimonial-slider-avatar">
-                        <img src="img/avatars/avatar2.jpg" alt="Leo Gill" title="Leo Gill" class="testimonial-slider-avatar__image" />
+                        <img src="src/assets/img/avatars/avatar2.jpg" alt="Leo Gill" title="Leo Gill" class="testimonial-slider-avatar__image" />
                     </div><!-- End /.testimonial-slider-avatar -->
 
                     <h6 class="testimonial-slider__name semibold">Leo Gill</h6>
@@ -656,7 +656,7 @@
             <div class="testimonial-slider__review">
                 <div class="testimonial-slider__quote">
                     <h3 class="testimonial-slider__text">Хочу сказать большое спасибо за отличный менеджмент и общее исполнение проекта. Сайт получился отличный, и с вами, как всегда, было очень приятно и комфортно работать! Спасибо!</h3>
-                    <img src="img/icons/quotes.svg" alt="quotes" class="testimonial-slider__icon" />                                                           
+                    <img src="src/assets/img/icons/quotes.svg" alt="quotes" class="testimonial-slider__icon" />                                                           
                 </div>
                 <div class="testimonial-slider__caret"></div> 
             </div><!-- End /.testimonial-slider__review -->
@@ -669,7 +669,7 @@
 
                     <!-- Start .testimonial-slider-avatar -->
                     <div class="testimonial-slider-avatar">
-                        <img src="img/avatars/avatar3.jpg" alt="Miyah Myles" title="Miyah Myles" class="testimonial-slider-avatar__image" />
+                        <img src="src/assets/img/avatars/avatar3.jpg" alt="Miyah Myles" title="Miyah Myles" class="testimonial-slider-avatar__image" />
                     </div><!-- End /.testimonial-slider-avatar -->
 
                     <h6 class="testimonial-slider__name semibold">Miyah Myles</h6>
@@ -687,7 +687,7 @@
             <div class="testimonial-slider__review">
                 <div class="testimonial-slider__quote">
                     <h3 class="testimonial-slider__text">Работа с вами — одно удовольствие! Нам есть с чем сравнить, ведь от предыдущего подрядчика мы, в прямом смысле слова, сбежали!</h3>
-                    <img src="img/icons/quotes.svg" alt="quotes" class="testimonial-slider__icon" />                                                           
+                    <img src="src/assets/img/icons/quotes.svg" alt="quotes" class="testimonial-slider__icon" />                                                           
                 </div>
                 <div class="testimonial-slider__caret"></div> 
             </div><!-- End /.testimonial-slider__review -->
@@ -700,7 +700,7 @@
 
                     <!-- Start .testimonial-slider-avatar -->
                     <div class="testimonial-slider-avatar">
-                        <img src="img/avatars/avatar4.jpg" alt="Sasha Ho" title="Sasha Ho" class="testimonial-slider-avatar__image" />
+                        <img src="src/assets/img/avatars/avatar4.jpg" alt="Sasha Ho" title="Sasha Ho" class="testimonial-slider-avatar__image" />
                     </div><!-- End /.testimonial-slider-avatar -->
 
                     <h6 class="testimonial-slider__name semibold">Sasha Ho</h6>
@@ -879,13 +879,13 @@
 ============================== --> 
 
 <!-- All Main Scripts -->
-<script src="js/scripts.min.js"></script>
+<script src="src/assets/js/scripts.min.js"></script>
 
 <!-- Mobile - Burger Right Menu -->
-<script src="js/burger-menu.min.js"></script>
+<script src="src/assets/js/burger-menu.min.js"></script>
 
 <!-- Common --> 
-<script src="js/common.js"></script>
+<script src="src/assets/js/common.js"></script>
 
 </body>
 </html>
