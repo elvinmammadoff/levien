@@ -27,13 +27,13 @@
               <div class="large-10 large-centered columns">
 
                   <div class="name">
-                      <h3>Butazzo Pizza</h3>
+                      <h3>Levien - Casino Resort & Hotel</h3>
                       <p>Premium HTML Template Documentation</p>
                   </div>
 
                   <ul class="meta">
                       <li><strong>Author:</strong> <a href="https://themeforest.net/user/alissio">Alissio</a></li>
-                      <li><strong>Live Preview:</strong> <a href="https://butazzo-pizza.herokuapp.com/">View Demo</a></li>
+                      <li><strong>Live Preview:</strong> <a href="https://levien-casino.herokuapp.com/">View Demo</a></li>
                       <li><strong>Support:</strong> <a href="http://support.4ris.info">Ask a Question</a></li> 
                   </ul>
 
@@ -80,7 +80,7 @@
                     <section id="introduction" class="section" data-magellan-destination="introduction">
                           
                           <h1>Howdy!</h1>
-                          <p class="lead">You are a shining owner of a regular license based on Butazzo Pizza Theme</p>
+                          <p class="lead">You are a shining owner of a regular license based on Levien - Casino Resort & Hotel Theme</p>
                           <p>First of all, Thank you so much for purchasing this template and for being my loyal customer. You are entitled to get free updates to this product + exceptional support (as per market policy) from the author directly.</p>
                           <p>This documentation is to help you undesrstand the template's structure. Please go through the documentation carefully to understand how this template is made and how to edit this properly. Basic HTML and CSS knowledge is required to customize this template.</p>
 
@@ -411,29 +411,12 @@
 
                           <br>
 
-                          <p>We’re always improving our skills and knowledge so we’re making changes regularly. From bug fixes to new awesome features, updates generally come at least twice a month.<p>
-
-<pre>     
-  V1.2
-  - fixed: burger menu view on tablet devices
-  - fixed: navbar fixed view 
-  - updated: documentation file
-
-  V1.1
-  - added: loadMoreResults plugin for gallery photos
-  - fixed: slider responsive view to medium devices
-  - added: extra images for slider, menu and gallery sections
-  - changed: content of menu section  
-  - updated: documentation file
-  
-  V1.0
-  - fixed: font smoothing in webkit and firefox  
-</pre>                            
+                          <p>We’re always improving our skills and knowledge so we’re making changes regularly. From bug fixes to new awesome features, updates generally come at least twice a month.<p>                       
 
                     </section>
 
                     <footer>
-                      <p>© Butazzo Pizza Cafe and Restaurant HTML Template</p>
+                      <p>© Levien - Casino Resort & Hotel HTML Template</p>
                     </footer>
 
                 </div>
