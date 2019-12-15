@@ -74,7 +74,7 @@
 
                 </div>
 
-                <div id="main-content" class="large-8 large-pull-4 columns">
+                <m id="main-content" class="large-8 large-pull-4 columns">
 
                     <a name="introduction"></a>
                     <section id="introduction" class="section" data-magellan-destination="introduction">
@@ -116,59 +116,62 @@
                       <br>
 
                       <p>Levien – Casino Resort & Hotel HTML Template Included 4 HTML files are well organized and named accordingly so it’s very easy to change any and all of the design. 
-                        Our Template files are built with Bootstrap 4. You can customize it very easy to fit your casino needs.
+                        Our Template files are built with Bootstrap 4. You can customize it very easy to fit your casino needs.<br/>
                         The general <code>template</code> structure is the same throughout the template. Here is the general structure. Note that for brevity, I'm not including content that isn’t relevant to the technique.
                       </p>
 
 <pre data-language="HTML Skeleton">
 <code class="language-markup">
 
-  <!-- BEGIN  Loading Section -->  
-  <div class="loading-overlay">
-      <div class="spinner">
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
+  <!-- BEGIN  Loading Section -->
+  <div id="loading">
+    <div class="loading__center">
+      <div class="loading__position">
+        <div id="object"></div>
       </div>
+    </div>
   </div>
   <!-- END Loading Section -->
 
-  <!-- BEGIN body wrapper -->
-    <div class="body-wrapper">
+  <!-- BEGIN Header -->
+  <header class="Navbar sticky-header"></header>
+  <!-- END Header-->
 
-      <!-- Begin header-->
-      <header id="header"></header>
-      <!-- End header-->
+  <!-- BEGIN Main -->
+  <main class="sticky">
+    <article>
 
-      <!-- Begin Sections-->
+      <!-- BEGIN Sections-->
 
-      <!--    About Us    -->
-      <div class="container section" id="about_us"></div>
+      <!-- Banner -->
+      <section class="Banner section clearfix"></section>
 
-      <!--    Menus   -->
-      <div class="container section" id="menu"></div>
+      <!-- Hotels -->
+      <section class="Hotel-card section clearfix"></section>
 
-      <!--    Reservation    -->
-      <div class="fixed_layer section" id="reservation"></div>
+      <!-- END Sections-->
 
-      <!--    Gallery    -->
-      <div class="container section" id="gallery"></div>
+    </article>
+  </main>
+  <!-- END Main -->
 
-      <!-- End Sections -->
+  <!-- BEGIN Mobile burger navigation -->
+  <nav class="cd-nav-container burger-menu burger-menu--right" id="cd-nav"></nav>
+  <!-- END Mobile burger navigation -->
 
-      <!--  Begin Footer  -->
-      <footer></footer> 
-      <!-- End Footer -->
+  <!-- BEGIN Overlay mask -->
+  <div class="cd-overlay"></div>
+  <!-- END Overlay mask -->
 
-    </div>
-  <!-- END body-wrapper -->
-  
-  <!-- START mobile right burger menu -->
-  <nav class="cd-nav-container right_menu" id="cd-nav"></nav>
+  <!-- BEGIN Go to top button -->
+  <div class="scroll-up">
+      <div class="scroll-up__icon"></div>
+  </div>
+  <!-- END Go to top button -->
 
-  <div class="cd-overlay"></div><!-- /.cd-overlay -->
+  <!-- BEGIN Footer -->
+  <footer class="Navbar clearfix"></footer>
+  <!-- END Footer -->
 
 </code>
 </pre>
