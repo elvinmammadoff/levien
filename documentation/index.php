@@ -98,9 +98,9 @@
                           <h3>Package contents</h3>
 
                           <ul>
-                            <li><strong>Template</strong> — Contains all the original template files comprises of HTML, CSS, JS etc. This is the folder which you'll upload on your server after necessary modifications.</li>
+                            <li><strong>template</strong> — Contains all the original template files comprises of HTML, CSS, JS etc. This is the folder which you'll upload on your server after necessary modifications.</li>
 
-                            <li><strong>Documentation</strong> — Inside this folder you will find this same documentation updated with the last changes.</li>
+                            <li><strong>documentation</strong> — Inside this folder you will find this same documentation updated with the last changes.</li>
                             
                           </ul>
 
@@ -115,7 +115,10 @@
 
                       <br>
 
-                      <p>This theme is a responsive layout with landing page. All of the information within the main content area is nested within a div with an class of "sections". The general <code>template</code> structure is the same throughout the template. Here is the general structure. Note that for brevity, I'm not including content that isn’t relevant to the technique.</p>
+                      <p>Levien – Casino Resort & Hotel HTML Template Included 4 HTML files are well organized and named accordingly so it’s very easy to change any and all of the design. 
+                        Our Template files are built with Bootstrap 4. You can customize it very easy to fit your casino needs.
+                        The general <code>template</code> structure is the same throughout the template. Here is the general structure. Note that for brevity, I'm not including content that isn’t relevant to the technique.
+                      </p>
 
 <pre data-language="HTML Skeleton">
 <code class="language-markup">
