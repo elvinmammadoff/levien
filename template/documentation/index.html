@@ -37,7 +37,7 @@
                       <li><strong>Support:</strong> <a href="http://support.4ris.info">Ask a Question</a></li> 
                   </ul>
 
-                  <p>Thank you for purchasing my theme. <br /> If you have any questions that are beyond the scope of this help file, <br /> please feel free to email <a href="mailto:designer.rafiq@gmail.com">here</a>.<br /> Thanks so much!</p>
+                  <p>Thank you for purchasing my theme. <br /> If you have any questions that are beyond the scope of this help file, <br /> please feel free to email <a href="mailto:designer.rafiq@gmail.com">here</a><br /> Thanks so much!</p>
 
               </div>
 
@@ -50,7 +50,7 @@
 
             <div id="container" class="row">
 
-                <div id="sidebar" class="large-4 large-push-8 columns" data-magellan-expedition="fixed">
+                <div id="sidebar" class="large-3 large-push-9 columns" data-magellan-expedition="fixed">
 
                     <div class="sticky">
 
@@ -74,7 +74,7 @@
 
                 </div>
 
-                <m id="main-content" class="large-8 large-pull-4 columns">
+                <m id="main-content" class="large-9 large-pull-3 columns">
 
                     <a name="introduction"></a>
                     <section id="introduction" class="section" data-magellan-destination="introduction">
@@ -179,7 +179,7 @@
 
                     </section>
                           <a name="skeleton-details"></a>
-                          <section id="skeleton-details" class="sub-section"  data-magellan-destination="skeleton-details">
+                          <section id="skeleton-details" class="section"  data-magellan-destination="skeleton-details">
                                 
                                 <h2>2.1. Skeleton Details</h2>
 
@@ -187,15 +187,17 @@
 
                                 <p>From the above skeleton it can be seen that there are 7 major logical code blocks in page. Most of the contents displayed on the screen goes in one of this block.</p>
 
-                                <p><code>div class="loading-overlay"</code> shows a loading overlay on the whole page or over single DOM elements</p>
+                                <p><code>div id="loading"</code> shows a loading layout on the whole page</p>
 
-                                <p><code>header id="header"</code> section contains the code for carousel, contact details, logo and primary navigation at top.</p>
+                                <p><code>header class="Navbar sticky-header"</code> contains the code logo and primary navigation at top.</p>
 
-                                <p><code>div id="about_us"</code> <code>div id="menu"</code> <code>div id="reservation"</code> <code>div id="gallery"</code> section contains the page specific content as well as their details.</p>
+                                <p><code>main class="sticky"</code> contains the page specific content as well as their details.</p>
 
-                                <p><code>site-footer</code> section typically remains the same. It consist of short about info, working days list, contact details, social icons and copyright text note also.</p>
+                                <p>Further, skeleton shows two additional markup tags.<code>nav class="cd-nav-container burger-menu burger-menu--right" id="cd-nav"</code> contains the menu for the mobile version. <code>div class="cd-overlay"</code> when mobile menu showed this layer visibled under mobile menu above content too.</p>
 
-                                <p>Further, skeleton shows two additional markup tags.<code>div id="cd-nav"</code> contains the menu for the mobile version. <code>div class="cd-overlay"</code> when mobile menu showed this layer visibled under mobile menu above content too.</p>
+                                <p><code>div class="scroll-up"</code> when you click this element which shows on right side you can go to top automatically</p>
+
+                                <p><code>footer class="Navbar clearfix"</code> contains the code like header and extra subscribe form</p>
 
                           </section>
                     <a name="stylesheet-files"></a>

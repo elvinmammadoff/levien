@@ -37,7 +37,7 @@
                       <li><strong>Support:</strong> <a href="http://support.4ris.info">Ask a Question</a></li> 
                   </ul>
 
-                  <p>Thank you for purchasing my theme. <br /> If you have any questions that are beyond the scope of this help file, <br /> please feel free to email <a href="mailto:designer.rafiq@gmail.com">here</a>.<br /> Thanks so much!</p>
+                  <p>Thank you for purchasing my theme. <br /> If you have any questions that are beyond the scope of this help file, <br /> please feel free to email <a href="mailto:designer.rafiq@gmail.com">here</a><br /> Thanks so much!</p>
 
               </div>
 
@@ -50,7 +50,7 @@
 
             <div id="container" class="row">
 
-                <div id="sidebar" class="large-4 large-push-8 columns" data-magellan-expedition="fixed">
+                <div id="sidebar" class="large-3 large-push-9 columns" data-magellan-expedition="fixed">
 
                     <div class="sticky">
 
@@ -74,7 +74,7 @@
 
                 </div>
 
-                <m id="main-content" class="large-8 large-pull-4 columns">
+                <m id="main-content" class="large-9 large-pull-3 columns">
 
                     <a name="introduction"></a>
                     <section id="introduction" class="section" data-magellan-destination="introduction">
