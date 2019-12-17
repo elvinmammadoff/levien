@@ -1,0 +1,175 @@
+
+@media (max-width:1199.98px) {
+    .Menu-item {
+        margin: 0 0 0 20px
+    }
+}
+
+@media (max-width:991.98px) {
+    .Menu {
+        display: none
+    }
+    .Navbar {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-pack: justify;
+        -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+        justify-content: space-between
+    }
+    .Navbar__nav {
+        width: 100%
+    }
+    .Hotels-table__row>.row>:last-child {
+        margin-top: 30px
+    }
+    .Hotels-table__header {
+        display: none
+    }
+    .Contact-card {
+        margin-top: 40px
+    }
+    .testimonial {
+        margin-top: 30px
+    }
+    .carousel-indicators__item {
+        height: 88px;
+        max-height: 88px
+    }
+    .carousel-item {
+        height: 396px;
+        max-height: 396px
+    }
+    .modal-dialog {
+        max-width: 650px
+    }
+}
+
+@media (max-width:767.98px) {
+    .content__margin {
+        margin-top: 2.4rem
+    }
+    .Footer .container {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column
+    }
+    .Contact__form {
+        position: relative;
+        top: 0;
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+        width: 100%
+    }
+    .Contact__methods .container {
+        max-width: 100%;
+        padding: 0
+    }
+    .Contact__form {
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        border-top: .063rem solid #ddd
+    }
+    .carousel-indicators__item {
+        height: 140px;
+        max-height: 140px
+    }
+    .carousel-item {
+        height: 284px;
+        max-height: 284px
+    }
+    .carousel-inner {
+        margin-bottom: 30px
+    }
+    .Hotels-table__row .button {
+        width: 100%;
+        max-width: 100%;
+        text-align: center;
+        margin-top: 30px
+    }
+    .Hotels__description {
+        margin-top: 30px
+    }
+    .Navbar-logo__info {
+        display: none
+    }
+    .Hotel-header {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: start;
+        -webkit-align-items: flex-start;
+        -ms-flex-align: start;
+        align-items: flex-start
+    }
+    .Hotel-header__title {
+        margin: 20px 0 0
+    }
+}
+
+@media (max-width:575.98px) {
+    .carousel-indicators>.row>div {
+        width: 50%
+    }
+    .carousel-indicators__item {
+        height: 99px;
+        max-height: 99px
+    }
+    .carousel-item {
+        height: 212px;
+        max-height: 212px
+    }
+    .Navbar-logo__info {
+        display: none
+    }
+    .Banner__title {
+        font-size: 26px;
+        line-height: 34px
+    }
+    .Banner__description {
+        font-size: 16px;
+        line-height: 24px
+    }
+    .section {
+        margin: 30px 0
+    }
+}
+
+@media (min-width:992px) {
+    .cd-nav-container,
+    .cd-nav-trigger {
+        display: none
+    }
+    .cd-overlay {
+        display: none
+    }
+    .modal-lg {
+        max-width: 1110px
+    }
+    .modal-body {
+        height: 570px
+    }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:2),
+only screen and (min--moz-device-pixel-ratio:2),
+only screen and (-o-min-device-pixel-ratio:2 / 1),
+only screen and (min-device-pixel-ratio:2),
+only screen and (-o-min-device-pixel-ratio:2/1),
+only screen and (min-resolution:192dpi),
+only screen and (min-resolution:2dppx) {
+    .Navbar-logo__link {
+        background: url(../img/Logo@2x.png) center left no-repeat
+    }
+}

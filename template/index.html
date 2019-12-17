@@ -14,8 +14,14 @@
     <!-- Title -->
     <title>Royce - Hotel and Casino</title>
 
-    <!-- All Styles -->
-    <link rel="stylesheet" href="src/assets/css/main.min.css" />
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="src/assets/css/bootstrap.min.css" />
+    <!-- Slick carousel -->
+    <link rel="stylesheet" href="src/assets/css/slick-carousel.min.css" />
+    <!-- Style -->
+    <link rel="stylesheet" href="src/assets/css/style.css" />
+    <!-- Responsive -->
+    <link rel="stylesheet" href="src/assets/css/responsive.css" />
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="src/assets/img/favicon/apple-touch-icon.png" />
@@ -686,11 +692,16 @@
     </footer>
     <!-- END Footer -->
 
-    <!-- All Scripts -->
-    <script src="src/assets/js/scripts.min.js"></script>
-
-    <!-- Mobile - Burger Right Menu -->
+    <!-- Jquery -->
+    <script src="src/assets/js/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="src/assets/js/bootstrap.min.js"></script>
+    <!-- Slick carousel -->
+    <script src="src/assets/js/slick.min.js"></script>
+    <!-- Burger menu -->
     <script src="src/assets/js/burger-menu.min.js"></script>
+    <!-- Common -->
+    <script src="src/assets/js/common.js"></script>
 
 </body>
 
