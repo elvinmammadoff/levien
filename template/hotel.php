@@ -535,7 +535,7 @@
                 <!-- END Footer navigation -->
 
                 <!-- BEGIN Subscribe -->
-                <form action="" method="" class="Form">
+                <form action="#" method="post" class="Form">
                     <div class="Form__group Form__group--one">
                         <input type="email" class="Form__input Form__input--group" id="email" name="email"
                             spellcheck="false" autocapitalize="off" required />

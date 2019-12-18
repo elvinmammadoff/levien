@@ -172,7 +172,7 @@
 
                             <!-- BEGIN Contact Form -->
                             <div class="Contact__form">
-                                <form action="" method="POST"
+                                <form action="#" method="post"
                                     class="d-flex justify-content-between flex-wrap Contact-card card card--padd"
                                     autocomplete="off">
                                     <h2 class="title title--mini">
@@ -288,7 +288,7 @@
                 <!-- END Footer navigation -->
 
                 <!-- BEGIN Subscribe -->
-                <form action="" method="" class="Form">
+                <form action="#" method="" class="Form">
                     <div class="Form__group Form__group--one">
                         <input type="email" class="Form__input Form__input--group" id="email" name="email"
                             spellcheck="false" autocapitalize="off" required />
@@ -303,7 +303,7 @@
 
                 <!-- BEGIN Modal subscribe thanks message -->
                 <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
-                    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    aria-labelledby="exampleModalCenter" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-body p-3 h-auto text-center">

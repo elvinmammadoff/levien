@@ -166,7 +166,7 @@
                                     <img src="src/assets/img/icons/locked.svg" alt="locked" title="locked" />
                                     <div class="Banner-card__label">
                                         <h3 class="Banner-card__title">
-                                            Все отели </br>
+                                            Все отели <br>
                                             <span class="semibold">100% гарантированы</span>
                                         </h3>
                                     </div>
@@ -656,7 +656,7 @@
                 <!-- END Footer navigation -->
 
                 <!-- BEGIN Subscribe -->
-                <form action="" method="" class="Form">
+                <form action="#" method="post" class="Form">
                     <div class="Form__group Form__group--one">
                         <input type="email" class="Form__input Form__input--group" id="email" name="email"
                             spellcheck="false" autocapitalize="off" required />
@@ -671,7 +671,7 @@
 
                 <!-- BEGIN Modal subscribe thanks message -->
                 <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
-                    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    aria-labelledby="exampleModalCenter" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-body p-3 h-auto text-center">
