@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="ru" dir="ltr">
 
 <!-- BEGIN Head -->
 <head>
@@ -94,9 +94,7 @@
 
                 <!-- BEGIN Logo section -->
                 <div class="Navbar-logo">
-                    <h1 class="Navbar-logo__image">
-                        <a href="/" title="Rafoz Farzo - Photography Template" class="Navbar-logo__link"></a>
-                    </h1>
+                    <a href="/" title="Rafoz Farzo - Photography Template" class="Navbar-logo__link"></a>
                     <div class="Navbar-logo__info label label--gray">
                         <div><span class="semibold">Казино Отель</span> для</div> шведских людей
                     </div>
