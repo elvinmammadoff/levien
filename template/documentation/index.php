@@ -32,12 +32,12 @@
                   </div>
 
                   <ul class="meta">
-                      <li><strong>Author:</strong> <a href="https://themeforest.net/user/alissio">Alissio</a></li>
-                      <li><strong>Live Preview:</strong> <a href="https://levien-casino.herokuapp.com/">View Demo</a></li>
-                      <li><strong>Support:</strong> <a href="http://support.4ris.info">Ask a Question</a></li> 
+                      <li><strong>Author:</strong> <a href="https://themeforest.net/user/alissio" target="_blank">Alissio</a></li>
+                      <li><strong>Live Preview:</strong> <a href="https://levien-casino.herokuapp.com/" target="_blank">View Demo</a></li>
+                      <li><strong>Support:</strong> <a href="mailto:elvinmammadoff@gmail.com">Ask a Question</a></li> 
                   </ul>
 
-                  <p>Thank you for purchasing my theme. <br /> If you have any questions that are beyond the scope of this help file, <br /> please feel free to email <a href="mailto:designer.rafiq@gmail.com">here</a><br /> Thanks so much!</p>
+                  <p>Thank you for purchasing my theme. <br> If you have any questions that are beyond the scope of this help file, <br> please feel free to email <a href="mailto:designer.rafiq@gmail.com">here</a><br> Thanks so much!</p>
 
               </div>
 
@@ -82,7 +82,7 @@
                           <h1>Howdy!</h1>
                           <p class="lead">You are a shining owner of a regular license based on Levien - Casino Resort & Hotel Theme</p>
                           <p>First of all, Thank you so much for purchasing this template and for being my loyal customer. You are entitled to get free updates to this product + exceptional support (as per market policy) from the author directly.</p>
-                          <p>This documentation is to help you undesrstand the template's structure. Please go through the documentation carefully to understand how this template is made and how to edit this properly. Basic HTML and CSS knowledge is required to customize this template.</p>
+                          <p>This documentation is to help you understand the template's structure. Please go through the documentation carefully to understand how this template is made and how to edit this properly. Basic HTML and CSS knowledge is required to customize this template.</p>
 
                     </section>
 
@@ -95,12 +95,12 @@
 
                           <p>When you are ready to use this template, you must first upload the template files to a local or remote server. In this regard,  unzip the template package you have downloaded from themeforest. In extracted folder you can see following folders:<p>
 
-                          <h3>Package contents</h3>
+                          <h3>Package contents:</h3>
 
                           <ul>
                             <li><strong>template</strong> — Contains all the original template files comprises of HTML, CSS, JS etc. This is the folder which you'll upload on your server after necessary modifications.</li>
 
-                            <li><strong>documentation</strong> — Inside this folder you will find this same documentation updated with the last changes.</li>
+                            <li><strong>documentation</strong> — Inside this folder, you will find the same documentation updated with the latest changes.</li>
                             
                           </ul>
 
@@ -115,8 +115,8 @@
 
                       <br>
 
-                      <p>Levien – Casino Resort & Hotel HTML Template Included 4 HTML files are well organized and named accordingly so it’s very easy to change any and all of the design. 
-                        Our Template files are built with Bootstrap 4. You can customize it very easy to fit your casino needs.<br/>
+                      <p>Levien – Casino Resort & Hotel HTML Template Included 4 HTML files are well-organized and named accordingly, so it’s very easy to change any and all of the design. 
+                        Our Template files are built with Bootstrap 4. You can customize it very easily to fit your casino needs.<br/>
                         The general <code>template</code> structure is the same throughout the template. Here is the general structure. Note that for brevity, I'm not including content that isn’t relevant to the technique.
                       </p>
 
@@ -179,23 +179,25 @@
 
                     </section>
                           <a name="skeleton-details"></a>
-                          <section id="skeleton-details" class="sub-section"  data-magellan-destination="skeleton-details">
+                          <section id="skeleton-details" class="section"  data-magellan-destination="skeleton-details">
                                 
                                 <h2>2.1. Skeleton Details</h2>
 
                                 <br>
 
-                                <p>From the above skeleton it can be seen that there are 7 major logical code blocks in page. Most of the contents displayed on the screen goes in one of this block.</p>
+                                <p>From the above skeleton it can be seen that there are 7 major logical code blocks on page. Most of the contents displayed on the screen go in one of these blocks.</p>
 
-                                <p><code>div class="loading-overlay"</code> shows a loading overlay on the whole page or over single DOM elements</p>
+                                <p><code>div id="loading"</code> shows a loading layout on the whole page</p>
 
-                                <p><code>header id="header"</code> section contains the code for carousel, contact details, logo and primary navigation at top.</p>
+                                <p><code>header class="Navbar sticky-header"</code> contains the code logo and primary navigation at the top.</p>
 
-                                <p><code>div id="about_us"</code> <code>div id="menu"</code> <code>div id="reservation"</code> <code>div id="gallery"</code> section contains the page specific content as well as their details.</p>
+                                <p><code>main class="sticky"</code> contains the page specific content as well as their details.</p>
 
-                                <p><code>site-footer</code> section typically remains the same. It consist of short about info, working days list, contact details, social icons and copyright text note also.</p>
+                                <p>Further, skeleton shows two additional markup tags.<code>nav class="cd-nav-container burger-menu burger-menu--right" id="cd-nav"</code> contains the menu for the mobile version. <code>div class="cd-overlay"</code> when mobile menu is shown, this layer is visible under mobile menu above content, too.</p>
 
-                                <p>Further, skeleton shows two additional markup tags.<code>div id="cd-nav"</code> contains the menu for the mobile version. <code>div class="cd-overlay"</code> when mobile menu showed this layer visibled under mobile menu above content too.</p>
+                                <p><code>div class="scroll-up"</code> when you click this element which shows on the right side you can go to the top automatically.</p>
+
+                                <p><code>footer class="Navbar clearfix"</code> contains the code like header and extra subscribe form.</p>
 
                           </section>
                     <a name="stylesheet-files"></a>
@@ -205,46 +207,29 @@
 
                           <br>
 
-                          <p>All styling realted files of this template can be found in the folder named <code>css</code>.</p>
+                          <p>All styling related files of this template can be found in this folder path <code>template/src/assets/css</code></p>
 
 <pre data-language="Folder Map">
   <code class="language-markup">
     css/
     |
     |-- bootstrap.min.css
-    |-- bootstrap-datepicker.css
-    |-- bootstrap-datetimepicker.css
-    |-- bootstrap-theme.min.css
+    |-- slick-carousel.min
     |-- fonts.css
-    |-- font-awesome.min.css
-    |-- main.css
+    |-- style.css
     |-- responsive.css
-    |-- aos.css
-    |-- slick.css
-    |-- slick-theme.css
-    |-- scrolling-nav.css
-    |-- jquery.fancybox.css
-    |-- touch-sideswipe.css
   </code>
 </pre>
 
                           <br>
                           <p>
-                           As it can be seen, in this folder there are 14 <code>CSS</code> files.<br /> 
-                          <code>Bootstrap</code> is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with responsive grid system<br />
-                          <code>Bootstrap Date Time Picker</code> widget based on twitter bootstrap
-                          <code>Bootstrap Datepicker</code> provides a flexible datepicker widget in the Bootstrap style
-                          <code>Fonts</code> import Fonts to stylesheet<br />
-                          <code>Font Awesome</code> is iconic font and CSS toolkit<br />
-                          <code>Main</code> custom style file<br /> 
-                          <code>Responsive</code> for responsive design<br />
-                          <code>Aos</code> animate On scroll library<br />
-                          <code>Slick</code> is a responsive carousel jQuery plugin that supports multiple breakpoints, CSS3 transitions, touch events/swiping & much more<br />
-                          <code>Scrolling Nav</code> is a basic Bootstrap framework for creating smooth scrolling, one page websites <br />   
-                          <code>FancyBox</code> is a tool for displaying images, html content and multi-media in a Mac-style "lightbox" that floats overtop of web page <br />
-                          <code>Touch side swipe</code> widget-library for mobile navbar (vanilla js and little bit pure css)                      
-
-
+                           As it can be seen, the folder contains 5 <code>css</code> files.<br> 
+                          <code>bootstrap.min.css</code> is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with responsive grid system.<br>
+                          <code>slick-carousel.css</code> is a responsive carousel jQuery plugin that supports multiple breakpoints, CSS3 transitions, touch events/swiping & much more.<br>                          
+                          <code>fonts.css</code> import fonts to stylesheet.<br>
+                          <code>style.css</code> custom style file.<br> 
+                          <code>responsive.css</code> for responsive design.<br>                     
+                          </p>
                     </section>
 
                     <a name="javascript-files"></a>
@@ -254,44 +239,28 @@
 
                           <br>
 
-                          <p>All client-side related javascript files can be found in the <code>js</code> folder.</p>
+                          <p>All client-side related javascript files can be found in this folder path <code>template/src/assets/js</code></p>
 
 <pre data-language="Folder Map">
   <code class="language-markup">
     js/
     |    
-    |-- jquery-2.1.1.min.js  
+    |-- jquery.min.js  
     |-- bootstrap.min.js 
-    |-- jquery.easing.min.js      
-    |-- bootstrap-datepicker.js
-    |-- bootstrap-datetimepicker.js
-    |-- moment.js
-    |-- main.js
-    |-- aos.js
-    |-- jquery.fancybox.js
-    |-- jquery.mousewheel.min.js
-    |-- jquery.touchSwipe.min.js
     |-- slick.min.js
-    |-- scrolling-nav.js
-    |-- loadMoreResults.js
+    |-- burger-menu.min.js
+    |-- main.js
   </code>
 </pre> 
                          
                           <br>
                           <p>
-                          In this folder there are 13 files. <br /> 
-                          <code>Jquery</code> is a fast, small, and feature-rich JavaScript library<br />
-                          <code>Jquery Easing</code> a jQuery plugin from GSGD to give advanced easing options<br />
-                          <code>Bootstrap</code> is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with responsive grid system<br />
-                          <code>Bootstrap Date Time Picker</code> widget based on twitter bootstrap<br />
-                          <code>Bootstrap Datepicker</code> provides a flexible datepicker widget in the Bootstrap style
-                          <code>Main</code> contains all the custom programmed javascript coded specifically for this template<br /> 
-                          <code>Aos</code> animate On scroll library<br />
-                          <code>Slick</code> is a responsive carousel jQuery plugin that supports multiple breakpoints, CSS3 transitions, touch events/swiping & much more<br />
-                          <code>Scrolling Nav</code> is a basic Bootstrap framework for creating smooth scrolling, one page websites <br />   
-                          <code>FancyBox</code> is a tool for displaying images, html content and multi-media in a Mac-style "lightbox" that floats overtop of web page <br />
-                          <code>Touch side swipe</code> widget-library for mobile navbar (vanilla js and little bit pure css) <br />
-                          <code>loadMoreResults</code> is a small jQuery plugin for adding a 'Load More' pagination button to your long web content that allows you to dynamically load more items according to your needs.
+                          In this folder there are 5 files. <br> 
+                          <code>jquery.min.js</code> is a fast, small, and feature-rich JavaScript library<br>
+                          <code>bootstrap.min.js</code> is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with responsive grid system<br>
+                          <code>slick.min.js</code> is a responsive carousel jQuery plugin that supports multiple breakpoints, CSS3 transitions, touch events/swiping & much more<br>
+                          <code>burger-menu.min.js</code> contains javascript codes for mobile menu<br>
+                          <code>main.js</code> contains all the custom programmed javascript coded specifically for this template<br> 
                         </p>
 
                     </section>
@@ -303,7 +272,7 @@
 
                           <br>
 
-                          <p>Please remember you have purchased a very affordable theme and you have not paid for a full-time web design agency. Occasionally we will help with small tweaks, but these requests will be put on a lower priority due to their nature.</p>
+                          <p>Please be reminded that you have purchased a very affordable theme and you have not paid for a full-time web design agency. Occasionally, we will help with small tweaks, but these requests will be put on a lower priority due to their nature.</p>
                       
 
                           <section class="sub-section">
@@ -340,7 +309,7 @@
                                 <br>
 
                                 <ul>
-                                  <li>Make sure your question is a valid item Issue and not a customization request.</li>
+                                  <li>Make sure your question is a valid item issue and not a customization request.</li>
                                   <li>Make sure you have read through the documentation and any related video guides before asking support on how to accomplish a task.</li>
                                   <li>Make sure to double check the item FAQs.</li>
                                   <li>If you have customized your item and now have an issue, back-track to make sure you didn't make a mistake. If you have made changes and can't find the issue, please provide us with your changelog.</li>
@@ -366,22 +335,10 @@
                           <ul>
                             <li><a href="https://jquery.com/" target="_blank">jQuery</a></li>
                             <li><a href="https://getbootstrap.com/docs/3.3/" target="_blank">Bootstrap</a></li>
-                            <li><a href="http://gsgd.co.uk/splash/" target="_blank">Jquery Easing</a></li>
-                            <li><a href="https://eonasdan.github.io/bootstrap-datetimepicker/" target="_blank">Bootstrap Date/Time Picker</a></li>
-                            <li><a href="https://bootstrap-datepicker.readthedocs.io/en/latest/" target="_blank">Bootstrap Date Picker</a></li>
-                            <li><a href="https://michalsnik.github.io/aos/" target="_blank">Aos</a></li>
-                            <li><a href="http://fancybox.net/" target="_blank">Fancybox</a></li>
-                            <li><a href="https://github.com/jquery/jquery-mousewheel" target="_blank">Jquery Mousewheel</a></li>
-                            <li><a href="https://github.com/mattbryson/TouchSwipe-Jquery-Plugin" target="_blank">Touch Swipe</a></li>
                             <li><a href="http://kenwheeler.github.io/slick/" target="_blank">Slick Slider</a></li>
-                            <li><a href="https://startbootstrap.com/template-overviews/scrolling-nav/" target="_blank">Scrolling Nav</a></li>
-                            <li><a href="https://www.jqueryscript.net/loading/Load-More-Pagination-jQuery-loadMoreResults.html" target="_blank">loadMoreResults</a></li>
                             <li> <strong>Fonts used</strong>
                               <ul>
-                                <li><a href="https://www.fontsquirrel.com/fonts/chunkfive" target="_blank">ChunkFive Ex</a></li>
-                                <li><a href="https://fonts.google.com/specimen/Montserrat" target="_blank">Montserrat</a></li>
-                                <li><a href="https://fonts.google.com/specimen/Raleway" target="_blank">Raleway</a></li>
-                                <li><a href="https://fontawesome.com/v4.7.0/" target="_blank">Font Awesome</a></li>
+                                <li><a href="https://www.downloadfonts.io/proxima-nova-font-family-free/" target="_blank">Proxima Nova</a></li>
                               </ul>
                             </li>
                           </ul>
@@ -406,7 +363,7 @@
 
                           <br>
 
-                          <p>I've used Google Map Api for generate Google Map. You ease change map style or marker from guidelines <a href="https://developers.google.com/maps/documentation/javascript/adding-a-google-map" target="_blank">Google Map</a><p>
+                          <p>I've used Google Map Api to generate Google Map. You are able to change map style or marker from guidelines <a href="https://developers.google.com/maps/documentation/javascript/adding-a-google-map" target="_blank">Google Map</a><p>
 
                     </section>
 

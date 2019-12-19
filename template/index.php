@@ -697,8 +697,8 @@
     <script src="src/assets/js/slick.min.js"></script>
     <!-- Burger menu -->
     <script src="src/assets/js/burger-menu.min.js"></script>
-    <!-- Common -->
-    <script src="src/assets/js/common.js"></script>
+    <!-- Main -->
+    <script src="src/assets/js/main.js"></script>
 
 </body>
 
