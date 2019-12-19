@@ -35,6 +35,10 @@ button:hover {
     outline: 0
 }
 
+iframe{
+    border-width: 0px;
+}
+
 hr {
     margin: 15px 0;
     background-color: #f8f6f5;

@@ -215,8 +215,6 @@
                                                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42555.27704370547!2d4.738953456567812!3d45.785677388527326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ed3dfa0b3be3%3A0x125fc5b76f2bc0a6!2s3+Avenue+Georges+Bassinet%2C+69260+Charbonni%C3%A8res-les-Bains%2C+France!5e0!3m2!1sen!2s!4v1537101762318"
                                                     width="1110" 
                                                     height="570" 
-                                                    frameborder="0"
-                                                    border="0"
                                                     allowfullscreen>
                                                 </iframe>
                                             </div>
