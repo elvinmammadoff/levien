@@ -146,11 +146,11 @@
                     <div class="row">
                         <div class="col-md-12 col-lg-6">
                             <div class="Banner__info">
-                                <h1 class="Banner__title">
+                                <h2 class="Banner__title">
                                     Лучший скандинавский или европейский 
                                     <span class="Banner__label">отель казино</span>
                                     для шведских людей
-                                </h1>
+                                </h2>
                                 <p class="Banner__description">
                                     Здесь вы можете найти отзывы экспертов о лучших отелях казино в 
                                     <span class="semibold">Европе</span> для вас. Выберите 

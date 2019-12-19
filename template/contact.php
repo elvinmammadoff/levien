@@ -147,7 +147,7 @@
                         <div class="col-lg-6">
                             <div class="Contact-info">
                                 <div class="container">
-                                    <h1 class="title">Теперь <strong class="title__label">свяжитесь</strong> с нами</h1>
+                                    <h2 class="title">Теперь <strong class="title__label">свяжитесь</strong> с нами</h2>
                                     <div class="text">
                                         <p>
                                             Мы считаем, что двусторонняя связь является лучшей и поэтому мы сообщаем нашу

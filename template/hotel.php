@@ -146,10 +146,10 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="Banner__info">
-                                <h1 class="Banner__title">
+                                <h2 class="Banner__title">
                                     Вы можете получить подробную <span class="Banner__label">информацию</span> об этом
                                     поговорив нами
-                                </h1>
+                                </h2>
                                 <p class="Banner__description">
                                     Здесь вы <span class="semibold">можете</span> найти отзывы экспертов о лучших отелях
                                     казино в <span class="semibold">Европе</span> для вас. Выберите отели казино.

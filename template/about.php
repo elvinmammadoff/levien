@@ -143,7 +143,7 @@
             <!-- BEGIN About section -->
             <section class="About content">
                 <div class="container">
-                    <h1 class="title">Что мы <strong class="title__label">делаем</strong></h1>
+                    <h2 class="title">Что мы <strong class="title__label">делаем</strong></h2>
                     <div class="About-card card card--padd text">
                         <p>
                             На www.bastcasinorecensioner.com мы помогаем шведским людям в качестве отдыхающих найти
