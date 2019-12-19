@@ -188,19 +188,19 @@
                                         Charbonnières-les-Bains, Frankrike</p>
                                 </div>
                                 <button class="button button--block button--border button--icon" data-toggle="modal"
-                                    data-target="#exampleModalCenter">ПОКАЗАТЬ АДРЕС
+                                    data-target="#viewMapModalCenter">ПОКАЗАТЬ АДРЕС
                                     <svg class="icon icon-pin_sharp_circle">
                                         <use xlink:href="#icon-pin_sharp_circle"></use>
                                     </svg>
                                 </button>
 
                                 <!-- BEGIN Modal Google map -->
-                                <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
-                                    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                <div class="modal fade" id="viewMapModalCenter" tabindex="-1" role="dialog"
+                                    aria-labelledby="viewMapModalCenter" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
                                         <div class="modal-content">
                                             <div class="modal-header">
-                                                <h3 class="modal-title" id="exampleModalCenterTitle"><strong>Ритц
+                                                <h3 class="modal-title" id="viewMapModalCenterTitle"><strong>Ритц
                                                         Лондон</strong> 3 Avenue Georges Bassinet, 69260
                                                     Charbonnières-les-Bains, Frankrike</h3>
                                                 <button type="button" class="close" data-dismiss="modal"
@@ -213,8 +213,12 @@
                                             <div class="modal-body">
                                                 <iframe
                                                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42555.27704370547!2d4.738953456567812!3d45.785677388527326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ed3dfa0b3be3%3A0x125fc5b76f2bc0a6!2s3+Avenue+Georges+Bassinet%2C+69260+Charbonni%C3%A8res-les-Bains%2C+France!5e0!3m2!1sen!2s!4v1537101762318"
-                                                    width="1110" height="570" frameborder="0" style="border:0"
-                                                    allowfullscreen></iframe>
+                                                    width="1110" 
+                                                    height="570" 
+                                                    frameborder="0"
+                                                    border="0"
+                                                    allowfullscreen>
+                                                </iframe>
                                             </div>
                                         </div>
                                     </div>
