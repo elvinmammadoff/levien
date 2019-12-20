@@ -1232,7 +1232,7 @@ figure {
 }
 
 .burger-menu__logo {
-    background: url(../img/Logo.png) center center no-repeat;
+    background: url(../img/Logo.svg) center center no-repeat;
     width: 145px;
     height: 45px;
     display: inline-block
@@ -1931,7 +1931,7 @@ figure {
 }
 
 .Navbar-logo__link {
-    background: url(../img/Logo.png) center left no-repeat;
+    background: url(../img/Logo.svg) center left no-repeat;
     width: 145px;
     height: 45px;
     -webkit-background-size: contain;
