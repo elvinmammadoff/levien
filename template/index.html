@@ -137,329 +137,327 @@
     <!-- END Header -->
 
     <!-- BEGIN Main -->
-    <main class="sticky">
-        <article>
+    <div class="Main sticky">
 
-            <!-- BEGIN Banner section -->
-            <section class="Banner section clearfix">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 col-lg-6">
-                            <div class="Banner__info">
-                                <h2 class="Banner__title">
-                                    The best Scandinavian or European
-                                    <span class="Banner__label">casino hotel</span>
-                                    for Swedish people
-                                </h2>
-                                <p class="Banner__description">
-                                    Here you can find expert reviews of the best casino hotels in
-                                    <span class="bold">Europe</span> for you. Choose the 
-                                    <span class="bold">casino hotels</span> that suit you best on the list.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col-md-12 col-lg-4 offset-lg-2">
-
-                            <!-- BEGIN Banner card -->
-                            <div class="Banner-card card card--padd card--bg">
-                                <div class="Banner-card__header">
-                                    <img src="src/assets/img/icons/locked.svg" alt="locked" title="locked" />
-                                    <div class="Banner-card__label">
-                                        <h3 class="Banner-card__title">
-                                            All hotels <br>
-                                            <span class="semibold">100% guaranteed</span>
-                                        </h3>
-                                    </div>
-                                </div>
-                                <div class="Banner-card-list">
-                                    <div class="Banner-card-list__item">
-                                        <svg class="icon icon-checked">
-                                            <use xlink:href="#icon-checked"></use>
-                                        </svg>
-                                        <h3 class="Banner-card-list__name">Top Hotels</h3>
-                                    </div>
-                                    <div class="Banner-card-list__item">
-                                        <svg class="icon icon-checked">
-                                            <use xlink:href="#icon-checked"></use>
-                                        </svg>
-                                        <h3 class="Banner-card-list__name">Support and communication are the best in hotels.</h3>
-                                    </div>
-                                    <div class="Banner-card-list__item">
-                                        <svg class="icon icon-checked">
-                                            <use xlink:href="#icon-checked"></use>
-                                        </svg>
-                                        <h3 class="Banner-card-list__name">Direct link</h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- END Banner card -->
-
+        <!-- BEGIN Banner -->
+        <div class="Banner section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-lg-6">
+                        <div class="Banner__info">
+                            <h2 class="Banner__title">
+                                The best Scandinavian or European
+                                <span class="Banner__label">casino hotel</span>
+                                for Swedish people
+                            </h2>
+                            <p class="Banner__description">
+                                Here you can find expert reviews of the best casino hotels in
+                                <span class="bold">Europe</span> for you. Choose the 
+                                <span class="bold">casino hotels</span> that suit you best on the list.
+                            </p>
                         </div>
                     </div>
-                </div>
-            </section>
-            <!-- END Banner section -->
+                    <div class="col-md-12 col-lg-4 offset-lg-2">
 
-            <!-- BEGIN Hotels section -->
-            <section class="Hotels section clearfix">
-                <div class="container">
-                    <h2 class="title">Our <strong class="title__label">Hotels</strong></h2>
-                    <div class="Hotels-table">
-                        <div class="Hotels-table__header">
+                        <!-- BEGIN Banner card -->
+                        <div class="Banner-card card card--padd card--bg">
+                            <div class="Banner-card__header">
+                                <img src="src/assets/img/icons/locked.svg" alt="locked" title="locked" />
+                                <div class="Banner-card__label">
+                                    <h3 class="Banner-card__title">
+                                        All hotels <br>
+                                        <span class="semibold">100% guaranteed</span>
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="Banner-card-list">
+                                <div class="Banner-card-list__item">
+                                    <svg class="icon icon-checked">
+                                        <use xlink:href="#icon-checked"></use>
+                                    </svg>
+                                    <h3 class="Banner-card-list__name">Top Hotels</h3>
+                                </div>
+                                <div class="Banner-card-list__item">
+                                    <svg class="icon icon-checked">
+                                        <use xlink:href="#icon-checked"></use>
+                                    </svg>
+                                    <h3 class="Banner-card-list__name">Support and communication are the best in hotels.</h3>
+                                </div>
+                                <div class="Banner-card-list__item">
+                                    <svg class="icon icon-checked">
+                                        <use xlink:href="#icon-checked"></use>
+                                    </svg>
+                                    <h3 class="Banner-card-list__name">Direct link</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- END Banner card -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END Banner -->
+
+        <!-- BEGIN Hotels -->
+        <div class="Hotels section">
+            <div class="container">
+                <h2 class="title">Our <strong class="title__label">Hotels</strong></h2>
+                <div class="Hotels-table">
+                    <div class="Hotels-table__header">
+                        <div class="row">
+                            <div class="col-lg-7">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="Hotels-table__head">
+                                            <span class="semibold Hotels-table__id">#1</span>
+                                            <strong class="Hotels-table__title">HOTEL</strong>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="Hotels-table__head">
+                                            <span class="semibold Hotels-table__id">#2</span>
+                                            <strong class="Hotels-table__title">ADDRESS</strong>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-5">
+                                <div class="row">
+                                    <div class="col-lg-5">
+                                        <div class="Hotels-table__head">
+                                            <span class="semibold Hotels-table__id">#3</span>
+                                            <strong class="Hotels-table__title">POSITION</strong>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-7">
+                                        <div class="Hotels-table__head">
+                                            <span class="semibold Hotels-table__id">#4</span>
+                                            <strong class="Hotels-table__title">DETAILED REVIEW</strong>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="Hotels-table__body">
+                        <div class="Hotels-table__row">
                             <div class="row">
                                 <div class="col-lg-7">
                                     <div class="row">
-                                        <div class="col-lg-6">
-                                            <div class="Hotels-table__head">
-                                                <span class="semibold Hotels-table__id">#1</span>
-                                                <strong class="Hotels-table__title">HOTEL</strong>
+                                        <div class="col-md-6 col-lg-6">
+                                            <div class="Hotels-table__sort">
+                                                <img src="src/assets/img/icons/number-one.svg" alt="number-one"
+                                                    title="number one" />
+                                                <img src="src/assets/img/hotels/hotel1.png" alt="hotel1"
+                                                    title="hotel1" class="Hotel__image" />
                                             </div>
                                         </div>
-                                        <div class="col-lg-6">
-                                            <div class="Hotels-table__head">
-                                                <span class="semibold Hotels-table__id">#2</span>
-                                                <strong class="Hotels-table__title">ADDRESS</strong>
-                                            </div>
+                                        <div class="col-md-6 col-lg-6 valign">
+                                            <p class="Hotels__description">3 Avenue Georges Bassinet, 69260
+                                                Charbonnières-les-Bains, Frankrike</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-5">
                                     <div class="row">
-                                        <div class="col-lg-5">
-                                            <div class="Hotels-table__head">
-                                                <span class="semibold Hotels-table__id">#3</span>
-                                                <strong class="Hotels-table__title">POSITION</strong>
+                                        <div class="col-md-6 col-lg-5">
+                                            <div class="Hotels__rating">
+                                                <span class="semibold Hotels__score">9.8</span>
+                                                <span class="Hotels__status">Expert rating</span>
+                                                <div class="stars">
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-7">
-                                            <div class="Hotels-table__head">
-                                                <span class="semibold Hotels-table__id">#4</span>
-                                                <strong class="Hotels-table__title">DETAILED REVIEW</strong>
+                                        <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
+                                            <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="Hotels-table__row">
+                            <div class="row">
+                                <div class="col-lg-7">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-6">
+                                            <div class="Hotels-table__sort">
+                                                <span class="Hotels-table__number">2</span>
+                                                <img src="src/assets/img/hotels/hotel2.png" alt="hotel2"
+                                                    title="hotel2" class="Hotel__image" />
                                             </div>
+                                        </div>
+                                        <div class="col-md-6 col-lg-6 valign">
+                                            <p class="Hotels__description">150 Piccadilly, St James, London W1J 9BR,
+                                                Storbritannien</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-5">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-5">
+                                            <div class="Hotels__rating">
+                                                <span class="semibold Hotels__score">9.8</span>
+                                                <span class="Hotels__status">Expert rating</span>
+                                                <div class="stars">
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
+                                            <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="Hotels-table__body">
-                            <div class="Hotels-table__row">
-                                <div class="row">
-                                    <div class="col-lg-7">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-6">
-                                                <div class="Hotels-table__sort">
-                                                    <img src="src/assets/img/icons/number-one.svg" alt="number-one"
-                                                        title="number one" />
-                                                    <img src="src/assets/img/hotels/hotel1.png" alt="hotel1"
-                                                        title="hotel1" class="Hotel__image" />
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-6 valign">
-                                                <p class="Hotels__description">3 Avenue Georges Bassinet, 69260
-                                                    Charbonnières-les-Bains, Frankrike</p>
+                        <div class="Hotels-table__row">
+                            <div class="row">
+                                <div class="col-lg-7">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-6">
+                                            <div class="Hotels-table__sort">
+                                                <span class="Hotels-table__number">3</span>
+                                                <img src="src/assets/img/hotels/hotel3.png" alt="hotel3"
+                                                    title="hotel3" class="Hotel__image" />
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-5">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-5">
-                                                <div class="Hotels__rating">
-                                                    <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Expert rating</span>
-                                                    <div class="stars">
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
-                                            </div>
+                                        <div class="col-md-6 col-lg-6 valign">
+                                            <p class="Hotels__description">U Obecního domu 660/3, 110 00 Staré
+                                                Město, Tjeckien</p>
                                         </div>
                                     </div>
-
                                 </div>
-                            </div>
-                            <div class="Hotels-table__row">
-                                <div class="row">
-                                    <div class="col-lg-7">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-6">
-                                                <div class="Hotels-table__sort">
-                                                    <span class="Hotels-table__number">2</span>
-                                                    <img src="src/assets/img/hotels/hotel2.png" alt="hotel2"
-                                                        title="hotel2" class="Hotel__image" />
+                                <div class="col-lg-5">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-5">
+                                            <div class="Hotels__rating">
+                                                <span class="semibold Hotels__score">9.8</span>
+                                                <span class="Hotels__status">Expert rating</span>
+                                                <div class="stars">
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
                                                 </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-6 valign">
-                                                <p class="Hotels__description">150 Piccadilly, St James, London W1J 9BR,
-                                                    Storbritannien</p>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-5">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-5">
-                                                <div class="Hotels__rating">
-                                                    <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Expert rating</span>
-                                                    <div class="stars">
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
-                                            </div>
+                                        <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
+                                            <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="Hotels-table__row">
-                                <div class="row">
-                                    <div class="col-lg-7">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-6">
-                                                <div class="Hotels-table__sort">
-                                                    <span class="Hotels-table__number">3</span>
-                                                    <img src="src/assets/img/hotels/hotel3.png" alt="hotel3"
-                                                        title="hotel3" class="Hotel__image" />
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-6 valign">
-                                                <p class="Hotels__description">U Obecního domu 660/3, 110 00 Staré
-                                                    Město, Tjeckien</p>
+                        </div>
+                        <div class="Hotels-table__row">
+                            <div class="row">
+                                <div class="col-lg-7">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-6">
+                                            <div class="Hotels-table__sort">
+                                                <span class="Hotels-table__number">4</span>
+                                                <img src="src/assets/img/hotels/hotel4.png" alt="hotel4"
+                                                    title="hotel4" class="Hotel__image" />
                                             </div>
                                         </div>
+                                        <div class="col-md-6 col-lg-6 valign">
+                                            <p class="Hotels__description">Adolfo Diaz Ambrona, 11, 06006 Badajoz,
+                                                Spain</p>
+                                        </div>
                                     </div>
-                                    <div class="col-lg-5">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-5">
-                                                <div class="Hotels__rating">
-                                                    <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Expert rating</span>
-                                                    <div class="stars">
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                    </div>
+                                </div>
+                                <div class="col-lg-5">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-5">
+                                            <div class="Hotels__rating">
+                                                <span class="semibold Hotels__score">9.8</span>
+                                                <span class="Hotels__status">Expert rating</span>
+                                                <div class="stars">
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
                                                 </div>
                                             </div>
-                                            <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
-                                            </div>
+                                        </div>
+                                        <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
+                                            <a href="hotel.html" class="button" title="Go to Hotel Site">Go to Hotel Site</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="Hotels-table__row">
-                                <div class="row">
-                                    <div class="col-lg-7">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-6">
-                                                <div class="Hotels-table__sort">
-                                                    <span class="Hotels-table__number">4</span>
-                                                    <img src="src/assets/img/hotels/hotel4.png" alt="hotel4"
-                                                        title="hotel4" class="Hotel__image" />
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-6 valign">
-                                                <p class="Hotels__description">Adolfo Diaz Ambrona, 11, 06006 Badajoz,
-                                                    Spain</p>
+                        </div>
+                        <div class="Hotels-table__row">
+                            <div class="row">
+                                <div class="col-lg-7">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-6">
+                                            <div class="Hotels-table__sort">
+                                                <span class="Hotels-table__number">5</span>
+                                                <img src="src/assets/img/hotels/hotel5.png" alt="hotel5"
+                                                    title="hotel5" class="Hotel__image" />
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-5">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-5">
-                                                <div class="Hotels__rating">
-                                                    <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Expert rating</span>
-                                                    <div class="stars">
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="Go to Hotel Site">Go to Hotel Site</a>
-                                            </div>
+                                        <div class="col-md-6 col-lg-6 valign">
+                                            <p class="Hotels__description">Adolfo Diaz Ambrona, 11, 06006 Badajoz,
+                                                Spain</p>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="Hotels-table__row">
-                                <div class="row">
-                                    <div class="col-lg-7">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-6">
-                                                <div class="Hotels-table__sort">
-                                                    <span class="Hotels-table__number">5</span>
-                                                    <img src="src/assets/img/hotels/hotel5.png" alt="hotel5"
-                                                        title="hotel5" class="Hotel__image" />
+                                <div class="col-lg-5">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-5">
+                                            <div class="Hotels__rating">
+                                                <span class="semibold Hotels__score">9.8</span>
+                                                <span class="Hotels__status">Expert rating</span>
+                                                <div class="stars">
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
                                                 </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-6 valign">
-                                                <p class="Hotels__description">Adolfo Diaz Ambrona, 11, 06006 Badajoz,
-                                                    Spain</p>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="col-lg-5">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-5">
-                                                <div class="Hotels__rating">
-                                                    <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Expert rating</span>
-                                                    <div class="stars">
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
-                                            </div>
+                                        <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
+                                            <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -467,107 +465,107 @@
                         </div>
                     </div>
                 </div>
-            </section>
-            <!-- END Hotels section -->
+            </div>
+        </div>
+        <!-- END Hotels -->
 
-            <!-- BEGIN Review section -->
-            <section class="Review section clearfix">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-5">
-                            <p class="text">
-                                If you like to play casino while traveling with your partner, 
-                                it may be difficult for you to decide which hotel on cabotare to choose. 
-                                No problem using our list, you are guaranteed to find the one that fits. <br> 
-                                There you can enjoy board games, slots, poker and games with great difficulty. 
-                                You can also receive special bonuses if this is your first visit, 
-                                or become a member of loyalty if you return several times.<br> 
-                                Take a look at our list of the top 10 hotels in Europe to find out who is most likely to suit you.
-                            </p>
-                        </div>
-                        <div class="col-lg-6 offset-lg-1">
-                            <div class="testimonial">
-                                <div class="testimonial-slider">
-                                    <div class="testimonial-slider__item">
-                                        <div class="testimonial-slider__review">
-                                            <div class="testimonial-slider__quote">
-                                                <h3 class="testimonial-slider__text">The guys were able to quickly plunge into the specifics of our business, 
-                                                    study the processes, propose improvements and ways to modernize the existing infrastructure.</h3>
-                                                <img src="src/assets/img/icons/quotes.svg" alt="quotes"
-                                                    class="testimonial-slider__icon" />
-                                            </div>
-                                            <div class="testimonial-slider__caret"></div>
+        <!-- BEGIN Review -->
+        <div class="Review section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <p class="text">
+                            If you like to play casino while traveling with your partner, 
+                            it may be difficult for you to decide which hotel on cabotare to choose. 
+                            No problem using our list, you are guaranteed to find the one that fits. <br> 
+                            There you can enjoy board games, slots, poker and games with great difficulty. 
+                            You can also receive special bonuses if this is your first visit, 
+                            or become a member of loyalty if you return several times.<br> 
+                            Take a look at our list of the top 10 hotels in Europe to find out who is most likely to suit you.
+                        </p>
+                    </div>
+                    <div class="col-lg-6 offset-lg-1">
+                        <div class="testimonial">
+                            <div class="testimonial-slider">
+                                <div class="testimonial-slider__item">
+                                    <div class="testimonial-slider__review">
+                                        <div class="testimonial-slider__quote">
+                                            <h3 class="testimonial-slider__text">The guys were able to quickly plunge into the specifics of our business, 
+                                                study the processes, propose improvements and ways to modernize the existing infrastructure.</h3>
+                                            <img src="src/assets/img/icons/quotes.svg" alt="quotes"
+                                                class="testimonial-slider__icon" />
                                         </div>
-                                        <div class="testimonial-slider__details">
-                                            <div class="testimonial-slider__user">
-                                                <div class="testimonial-slider-avatar">
-                                                    <img src="src/assets/img/avatars/avatar.png" alt="Svea-Dmitiros"
-                                                        title="Svea Dmitiros"
-                                                        class="testimonial-slider-avatar__image" />
-                                                </div>
-                                                <h6 class="testimonial-slider__name semibold">Svea Dmitiros</h6>
+                                        <div class="testimonial-slider__caret"></div>
+                                    </div>
+                                    <div class="testimonial-slider__details">
+                                        <div class="testimonial-slider__user">
+                                            <div class="testimonial-slider-avatar">
+                                                <img src="src/assets/img/avatars/avatar.png" alt="Svea-Dmitiros"
+                                                    title="Svea Dmitiros"
+                                                    class="testimonial-slider-avatar__image" />
                                             </div>
+                                            <h6 class="testimonial-slider__name semibold">Svea Dmitiros</h6>
                                         </div>
                                     </div>
-                                    <div class="testimonial-slider__item">
-                                        <div class="testimonial-slider__review">
-                                            <div class="testimonial-slider__quote">
-                                                <h3 class="testimonial-slider__text">Good day. Thanks for the great work. 
-                                                    I would like to come to you now with a bottle of champagne.</h3>
-                                                <img src="src/assets/img/icons/quotes.svg" alt="quotes"
-                                                    class="testimonial-slider__icon" />
-                                            </div>
-                                            <div class="testimonial-slider__caret"></div>
+                                </div>
+                                <div class="testimonial-slider__item">
+                                    <div class="testimonial-slider__review">
+                                        <div class="testimonial-slider__quote">
+                                            <h3 class="testimonial-slider__text">Good day. Thanks for the great work. 
+                                                I would like to come to you now with a bottle of champagne.</h3>
+                                            <img src="src/assets/img/icons/quotes.svg" alt="quotes"
+                                                class="testimonial-slider__icon" />
                                         </div>
-                                        <div class="testimonial-slider__details">
-                                            <div class="testimonial-slider__user">
-                                                <div class="testimonial-slider-avatar">
-                                                    <img src="src/assets/img/avatars/avatar2.jpg" alt="Leo-Gill"
-                                                        title="Leo Gill" class="testimonial-slider-avatar__image" />
-                                                </div>
-                                                <h6 class="testimonial-slider__name semibold">Leo Gill</h6>
+                                        <div class="testimonial-slider__caret"></div>
+                                    </div>
+                                    <div class="testimonial-slider__details">
+                                        <div class="testimonial-slider__user">
+                                            <div class="testimonial-slider-avatar">
+                                                <img src="src/assets/img/avatars/avatar2.jpg" alt="Leo-Gill"
+                                                    title="Leo Gill" class="testimonial-slider-avatar__image" />
                                             </div>
+                                            <h6 class="testimonial-slider__name semibold">Leo Gill</h6>
                                         </div>
                                     </div>
-                                    <div class="testimonial-slider__item">
-                                        <div class="testimonial-slider__review">
-                                            <div class="testimonial-slider__quote">
-                                                <h3 class="testimonial-slider__text">I want to say thank you very much for the excellent management 
-                                                    and overall execution of the project. The site turned out to be excellent, and as always, 
-                                                    it was very pleasant and comfortable to work with you! Thanks!</h3>
-                                                <img src="src/assets/img/icons/quotes.svg" alt="quotes"
-                                                    class="testimonial-slider__icon" />
-                                            </div>
-                                            <div class="testimonial-slider__caret"></div>
+                                </div>
+                                <div class="testimonial-slider__item">
+                                    <div class="testimonial-slider__review">
+                                        <div class="testimonial-slider__quote">
+                                            <h3 class="testimonial-slider__text">I want to say thank you very much for the excellent management 
+                                                and overall execution of the project. The site turned out to be excellent, and as always, 
+                                                it was very pleasant and comfortable to work with you! Thanks!</h3>
+                                            <img src="src/assets/img/icons/quotes.svg" alt="quotes"
+                                                class="testimonial-slider__icon" />
                                         </div>
-                                        <div class="testimonial-slider__details">
-                                            <div class="testimonial-slider__user">
-                                                <div class="testimonial-slider-avatar">
-                                                    <img src="src/assets/img/avatars/avatar3.jpg" alt="Miyah-Myles"
-                                                        title="Miyah Myles" class="testimonial-slider-avatar__image" />
-                                                </div>
-                                                <h6 class="testimonial-slider__name semibold">Miyah Myles</h6>
+                                        <div class="testimonial-slider__caret"></div>
+                                    </div>
+                                    <div class="testimonial-slider__details">
+                                        <div class="testimonial-slider__user">
+                                            <div class="testimonial-slider-avatar">
+                                                <img src="src/assets/img/avatars/avatar3.jpg" alt="Miyah-Myles"
+                                                    title="Miyah Myles" class="testimonial-slider-avatar__image" />
                                             </div>
+                                            <h6 class="testimonial-slider__name semibold">Miyah Myles</h6>
                                         </div>
                                     </div>
-                                    <div class="testimonial-slider__item">
-                                        <div class="testimonial-slider__review">
-                                            <div class="testimonial-slider__quote">
-                                                <h3 class="testimonial-slider__text">Working with you is a pleasure! We have something to compare, 
-                                                    because we literally escaped from the previous contractor!</h3>
-                                                <img src="src/assets/img/icons/quotes.svg" alt="quotes"
-                                                    class="testimonial-slider__icon" />
-                                            </div>
-                                            <div class="testimonial-slider__caret"></div>
+                                </div>
+                                <div class="testimonial-slider__item">
+                                    <div class="testimonial-slider__review">
+                                        <div class="testimonial-slider__quote">
+                                            <h3 class="testimonial-slider__text">Working with you is a pleasure! We have something to compare, 
+                                                because we literally escaped from the previous contractor!</h3>
+                                            <img src="src/assets/img/icons/quotes.svg" alt="quotes"
+                                                class="testimonial-slider__icon" />
                                         </div>
-                                        <div class="testimonial-slider__details">
-                                            <div class="testimonial-slider__user">
-                                                <div class="testimonial-slider-avatar">
-                                                    <img src="src/assets/img/avatars/avatar4.jpg" alt="Sasha-Ho"
-                                                        title="Sasha Ho" class="testimonial-slider-avatar__image" />
-                                                </div>
-                                                <h6 class="testimonial-slider__name semibold">Sasha Ho</h6>
+                                        <div class="testimonial-slider__caret"></div>
+                                    </div>
+                                    <div class="testimonial-slider__details">
+                                        <div class="testimonial-slider__user">
+                                            <div class="testimonial-slider-avatar">
+                                                <img src="src/assets/img/avatars/avatar4.jpg" alt="Sasha-Ho"
+                                                    title="Sasha Ho" class="testimonial-slider-avatar__image" />
                                             </div>
+                                            <h6 class="testimonial-slider__name semibold">Sasha Ho</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -575,11 +573,11 @@
                         </div>
                     </div>
                 </div>
-            </section>
-            <!-- END Review section -->
+            </div>
+        </div>
+        <!-- END Review -->
 
-        </article>
-    </main>
+    </div>
     <!-- END Main -->
 
     <!-- BEGIN Mobile burger navigation -->
