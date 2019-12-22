@@ -137,83 +137,81 @@
     <!-- END Header -->
 
     <!-- BEGIN Main -->
-    <main class="sticky">
-        <article>
+    <div class="Main sticky">
 
-            <!-- BEGIN Contact section -->
-            <section class="Contact content">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="Contact-info">
-                                <div class="container">
-                                    <h2 class="title">Now <strong class="title__label">contact</strong> us</h2>
-                                    <div class="text">
-                                        <p>
-                                            We believe that two-way communication is the best and therefore we provide our 
-                                            <span class="bold">contact information</span> if you want to give us feedback or any other problems.
-                                        </p>
-                                        <p>
-                                            We also believe that our visitors and customers are our best critics. 
-                                            Your <span class="bold">feedback</span> helps us not only grow in our industry, 
-                                            but also ultimately attract regular <span class="bold">customers</span>.
-                                            Therefore, we look forward to hearing from you, and not only about what we are doing wrong, 
-                                            but also about what you like on our website:
-                                        </p>
-                                        <div class="bold underline Contact__email">sem@engintopcuoglu.com.tr</div>
-                                    </div>
+        <!-- BEGIN Contact -->
+        <div class="Contact content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="Contact-info">
+                            <div class="container">
+                                <h2 class="title">Now <strong class="title__label">contact</strong> us</h2>
+                                <div class="text">
+                                    <p>
+                                        We believe that two-way communication is the best and therefore we provide our 
+                                        <span class="bold">contact information</span> if you want to give us feedback or any other problems.
+                                    </p>
+                                    <p>
+                                        We also believe that our visitors and customers are our best critics. 
+                                        Your <span class="bold">feedback</span> helps us not only grow in our industry, 
+                                        but also ultimately attract regular <span class="bold">customers</span>.
+                                        Therefore, we look forward to hearing from you, and not only about what we are doing wrong, 
+                                        but also about what you like on our website:
+                                    </p>
+                                    <div class="bold underline Contact__email">sem@engintopcuoglu.com.tr</div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-6">
+                    </div>
+                    <div class="col-lg-6">
 
-                            <!-- BEGIN Contact Form -->
-                            <div class="Contact__form">
-                                <form action="#" method="post"
-                                    class="d-flex justify-content-between flex-wrap Contact-card card card--padd"
-                                    autocomplete="off">
-                                    <h2 class="title title--mini">
-                                        Send us a <span class="bold title__label">message</span>
-                                    </h2>
-                                    <div class="Form Form--row">
-                                        <div class="Form__group Form__group--half">
-                                            <input type="text" class="Form__input" id="name" spellcheck="false"
-                                                autocapitalize="off" autofocus required />
-                                            <label for="name" class="Form__label">Your name</label>
-                                        </div>
-                                        <div class="Form__group Form__group--half">
-                                            <input type="text" class="Form__input" id="surname" spellcheck="false"
-                                                autocapitalize="off" required />
-                                            <label for="surname" class="Form__label">Your surname</label>
-                                        </div>
-                                        <div class="Form__group">
-                                            <input type="email" class="Form__input" id="email" spellcheck="false"
-                                                autocapitalize="off" required />
-                                            <label for="email" class="Form__label">Email</label>
-                                        </div>
-                                        <div class="Form__group">
-                                            <textarea rows="5" id="message" class="Form__input Form__input--textarea resize"
-                                                spellcheck="false" autocapitalize="off" required>
-                                            </textarea>
-                                            <label for="message" class="Form__label">Сообщение</label>
-                                        </div>
-                                        <div class="Form__group align">
-                                            <input type="submit" value="SEND A MESSAGE" class="button button--medium"
-                                                data-toggle="modal" data-target="#exampleModalCenter1" />
-                                        </div>
+                        <!-- BEGIN Contact Form -->
+                        <div class="Contact__form">
+                            <form action="#" method="post"
+                                class="d-flex justify-content-between flex-wrap Contact-card card card--padd"
+                                autocomplete="off">
+                                <h2 class="title title--mini">
+                                    Send us a <span class="bold title__label">message</span>
+                                </h2>
+                                <div class="Form Form--row">
+                                    <div class="Form__group Form__group--half">
+                                        <input type="text" class="Form__input" id="name" spellcheck="false"
+                                            autocapitalize="off" autofocus required />
+                                        <label for="name" class="Form__label">Your name</label>
                                     </div>
-                                </form>
-                            </div>
-                            <!-- END Contact Form -->
-
+                                    <div class="Form__group Form__group--half">
+                                        <input type="text" class="Form__input" id="surname" spellcheck="false"
+                                            autocapitalize="off" required />
+                                        <label for="surname" class="Form__label">Your surname</label>
+                                    </div>
+                                    <div class="Form__group">
+                                        <input type="email" class="Form__input" id="email" spellcheck="false"
+                                            autocapitalize="off" required />
+                                        <label for="email" class="Form__label">Email</label>
+                                    </div>
+                                    <div class="Form__group">
+                                        <textarea rows="5" id="message" class="Form__input Form__input--textarea resize"
+                                            spellcheck="false" autocapitalize="off" required>
+                                        </textarea>
+                                        <label for="message" class="Form__label">Сообщение</label>
+                                    </div>
+                                    <div class="Form__group align">
+                                        <input type="submit" value="SEND A MESSAGE" class="button button--medium"
+                                            data-toggle="modal" data-target="#exampleModalCenter1" />
+                                    </div>
+                                </div>
+                            </form>
                         </div>
+                        <!-- END Contact Form -->
+
                     </div>
                 </div>
-            </section>
-            <!-- END Contact section -->
+            </div>
+        </div>
+        <!-- END Contact -->
 
-        </article>
-    </main>
+    </div>
     <!-- END Main -->
 
     <!-- BEGIN Mobile burger navigation -->
@@ -286,9 +284,9 @@
                 <!-- BEGIN Subscribe -->
                 <form action="#" method="post" class="Form">
                     <div class="Form__group Form__group--one">
-                        <input type="email" class="Form__input Form__input--group" id="email" name="email"
+                        <input type="email" class="Form__input Form__input--group" id="emailSubject" name="email"
                             spellcheck="false" autocapitalize="off" required />
-                        <label for="email" class="Form__label Form__label--group">Email</label>
+                        <label for="emailSubject" class="Form__label Form__label--group">Email</label>
                         <span class="Form__send">
                             <input type="submit" value="" class="Form__submit" data-toggle="modal"
                                 data-target="#exampleModalCenter" />

@@ -137,313 +137,311 @@
     <!-- END Header -->
 
     <!-- BEGIN Main -->
-    <main class="sticky">
-        <article>
+    <div class="Main sticky">
 
-            <!-- BEGIN Banner section -->
-            <section class="Banner section clearfix">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="Banner__info">
-                                <h2 class="Banner__title">
-                                    You can get detailed <span class="Banner__label">information</span> about this by talking to us.
-                                </h2>
-                                <p class="Banner__description">
-                                    Here you can find <span class="bold">expert reviews</span> of the best casino hotels in 
-                                    <span class="bold">Europe</span> for you. Select casino hotels.
-                                </p>
-                                <a href="hotel.html" class="button button--large" title="REQUEST FOR CONSULTATIONS">REQUEST FOR CONSULTATIONS</a>
-                            </div>
+        <!-- BEGIN Banner -->
+        <div class="Banner section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="Banner__info">
+                            <h2 class="Banner__title">
+                                You can get detailed <span class="Banner__label">information</span> about this by talking to us.
+                            </h2>
+                            <p class="Banner__description">
+                                Here you can find <span class="bold">expert reviews</span> of the best casino hotels in 
+                                <span class="bold">Europe</span> for you. Select casino hotels.
+                            </p>
+                            <a href="hotel.html" class="button button--large" title="REQUEST FOR CONSULTATIONS">REQUEST FOR CONSULTATIONS</a>
                         </div>
-                        <div class="col-lg-4 offset-lg-2">
+                    </div>
+                    <div class="col-lg-4 offset-lg-2">
 
-                            <!-- BEGIN Banner card -->
-                            <div class="Banner-card Banner-card--details card card--padd card--bg">
-                                <div class="Banner-card__header">
-                                    <img src="src/assets/img/hotels/hotel2.png" alt="hotel2" title="hotel2"
-                                        class="Hotel__image ml-0" />
-                                    <div class="Hotels__rating">
-                                        <span class="semibold Hotels__score">9.8</span>
-                                        <span class="Hotels__status">Expert rating</span>
-                                        <div class="stars">
-                                            <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                class="stars__item" />
-                                            <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                class="stars__item" />
-                                            <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                class="stars__item" />
-                                            <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                class="stars__item" />
-                                            <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                class="stars__item" />
+                        <!-- BEGIN Banner card -->
+                        <div class="Banner-card Banner-card--details card card--padd card--bg">
+                            <div class="Banner-card__header">
+                                <img src="src/assets/img/hotels/hotel2.png" alt="hotel2" title="hotel2"
+                                    class="Hotel__image ml-0" />
+                                <div class="Hotels__rating">
+                                    <span class="semibold Hotels__score">9.8</span>
+                                    <span class="Hotels__status">Expert rating</span>
+                                    <div class="stars">
+                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                            class="stars__item" />
+                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                            class="stars__item" />
+                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                            class="stars__item" />
+                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                            class="stars__item" />
+                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                            class="stars__item" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="Banner-card__body">
+                                <div class="title--gray">ADDRESS:</div>
+                                <p class="Hotels__description">3 Avenue Georges Bassinet, 69260
+                                    Charbonnières-les-Bains, Frankrike</p>
+                            </div>
+                            <button class="button button--block button--border button--icon" data-toggle="modal"
+                                data-target="#viewMapModalCenter">SHOW ADDRESS
+                                <svg class="icon icon-pin_sharp_circle">
+                                    <use xlink:href="#icon-pin_sharp_circle"></use>
+                                </svg>
+                            </button>
+
+                            <!-- BEGIN Modal Google map -->
+                            <div class="modal fade" id="viewMapModalCenter" tabindex="-1" role="dialog"
+                                aria-labelledby="viewMapModalCenter" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h3 class="modal-title" id="viewMapModalCenterTitle">
+                                                <strong>Ritz London</strong> 3 Avenue Georges Bassinet, 69260
+                                                Charbonnières-les-Bains, Frankrike</h3>
+                                            <button type="button" class="close" data-dismiss="modal"
+                                                aria-label="Close">
+                                                <svg class="icon icon-close">
+                                                    <use xlink:href="#icon-close"></use>
+                                                </svg>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <iframe
+                                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42555.27704370547!2d4.738953456567812!3d45.785677388527326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ed3dfa0b3be3%3A0x125fc5b76f2bc0a6!2s3+Avenue+Georges+Bassinet%2C+69260+Charbonni%C3%A8res-les-Bains%2C+France!5e0!3m2!1sen!2s!4v1537101762318"
+                                                width="1110" 
+                                                height="570" 
+                                                allowfullscreen>
+                                            </iframe>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="Banner-card__body">
-                                    <div class="title--gray">ADDRESS:</div>
-                                    <p class="Hotels__description">3 Avenue Georges Bassinet, 69260
-                                        Charbonnières-les-Bains, Frankrike</p>
+                            </div>
+                            <!-- END Modal Google map -->
+
+                        </div>
+                        <!-- BEGIN Banner card -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END Banner -->
+
+        <!-- BEGIN Hotels card -->
+        <div class="Hotel-card section">
+            <div class="container">
+                <div class="card card--padd">
+                    <div class="Hotel-header">
+                        <img src="src/assets/img/hotels/hotel2.png" alt="hotel2" title="hotel2"
+                            class="Hotel__image ml-0" />
+                        <div class="Hotel-header__title">
+                            <h3 class="title title--medium">Ritz London</h3>
+                            <p class="text">
+                                Here you can find expert reviews of the best casino hotels in Europe for you. 
+                                Choose the casino hotels that suit you best on the list.
+                            </p>
+                        </div>
+                    </div>
+                    <hr />
+
+                    <!-- BEGIN Carousel -->
+                    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <img class="d-block w-100" src="src/assets/img/slider/slider1.jpg"
+                                            alt="First slide" />
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img class="d-block w-100" src="src/assets/img/slider/slider2.jpg"
+                                            alt="Second slide" />
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img class="d-block w-100" src="src/assets/img/slider/slider3.jpg"
+                                            alt="Third slide" />
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img class="d-block w-100" src="src/assets/img/slider/slider4.jpg"
+                                            alt="Fourth slide" />
+                                    </div>
                                 </div>
+
+                                <!-- BEGIN Carousel navigation -->
+                                <a class="carousel-control-prev" href="#carouselExampleFade" role="button"
+                                    data-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <img src="src/assets/img/icons/arrow-left.svg" alt="arrow-left"
+                                        title="arrow-left" />
+                                </a>
+                                <a class="carousel-control-next" href="#carouselExampleFade" role="button"
+                                    data-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <img src="src/assets/img/icons/arrow-right.svg" alt="arrow-right"
+                                        title="arrow-right" />
+                                </a>
+                                <!-- END Carousel navigation -->
+
+                            </div>
+                            <div class="col-lg-4">
+                                <h3 class="title--small">Other photos:</h3>
+
+                                <!-- BEGIN Carousel indicators -->
+                                <div class="carousel-indicators">
+                                    <div class="row">
+                                        <div class="col-sm-6 col-md-3 col-lg-6">
+                                            <div data-target="#carouselExampleFade" data-slide-to="0"
+                                                class="carousel-indicators__item active">
+                                                <img class="d-block w-100" src="src/assets/img/slider/slider1.jpg"
+                                                    alt="First-slide" title="First slide" />
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 col-md-3 col-lg-6">
+                                            <div data-target="#carouselExampleFade" data-slide-to="1"
+                                                class="carousel-indicators__item">
+                                                <img class="d-block w-100" src="src/assets/img/slider/slider2.jpg"
+                                                    alt="Second-slide" title="Second slide" />
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 col-md-3 col-lg-6">
+                                            <div data-target="#carouselExampleFade" data-slide-to="2"
+                                                class="carousel-indicators__item">
+                                                <img class="d-block w-100" src="src/assets/img/slider/slider3.jpg"
+                                                    alt="Third-slide" title="Third slide" />
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 col-md-3 col-lg-6">
+                                            <div data-target="#carouselExampleFade" data-slide-to="3"
+                                                class="carousel-indicators__item">
+                                                <img class="d-block w-100" src="src/assets/img/slider/slider4.jpg"
+                                                    alt="Fourth-slide" title="Fourth slide" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- END Carousel indicators -->
+
                                 <button class="button button--block button--border button--icon" data-toggle="modal"
-                                    data-target="#viewMapModalCenter">SHOW ADDRESS
+                                    data-target="#exampleModalCenter">SHOW ADDRESS
                                     <svg class="icon icon-pin_sharp_circle">
                                         <use xlink:href="#icon-pin_sharp_circle"></use>
                                     </svg>
                                 </button>
-
-                                <!-- BEGIN Modal Google map -->
-                                <div class="modal fade" id="viewMapModalCenter" tabindex="-1" role="dialog"
-                                    aria-labelledby="viewMapModalCenter" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h3 class="modal-title" id="viewMapModalCenterTitle">
-                                                    <strong>Ritz London</strong> 3 Avenue Georges Bassinet, 69260
-                                                    Charbonnières-les-Bains, Frankrike</h3>
-                                                <button type="button" class="close" data-dismiss="modal"
-                                                    aria-label="Close">
-                                                    <svg class="icon icon-close">
-                                                        <use xlink:href="#icon-close"></use>
-                                                    </svg>
-                                                </button>
-                                            </div>
-                                            <div class="modal-body">
-                                                <iframe
-                                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42555.27704370547!2d4.738953456567812!3d45.785677388527326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ed3dfa0b3be3%3A0x125fc5b76f2bc0a6!2s3+Avenue+Georges+Bassinet%2C+69260+Charbonni%C3%A8res-les-Bains%2C+France!5e0!3m2!1sen!2s!4v1537101762318"
-                                                    width="1110" 
-                                                    height="570" 
-                                                    allowfullscreen>
-                                                </iframe>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- END Modal Google map -->
-
                             </div>
-                            <!-- BEGIN Banner card -->
-
                         </div>
                     </div>
-                </div>
-            </section>
-            <!-- END Banner section -->
+                    <!-- END Carousel -->
 
-            <!-- BEGIN Hotels card section -->
-            <section class="Hotel-card section clearfix">
-                <div class="container">
-                    <div class="card card--padd">
-                        <div class="Hotel-header">
-                            <img src="src/assets/img/hotels/hotel2.png" alt="hotel2" title="hotel2"
-                                class="Hotel__image ml-0" />
-                            <div class="Hotel-header__title">
-                                <h3 class="title title--medium">Ritz London</h3>
-                                <p class="text">
-                                    Here you can find expert reviews of the best casino hotels in Europe for you. 
-                                    Choose the casino hotels that suit you best on the list.
-                                </p>
-                            </div>
+                    <div class="Hotel-content">
+                        <h3 class="title title--small">Overview</h3>
+                        <div class="text">
+                            <p>
+                                Motor Lodge Casino Casino offers free wi-fi. The hotel itself is a 10-minute walk from Christchurch Casino. 
+                                Some have a spa bath. Each room has electric blankets, satellite TV. Two breakfasts are offered each morning.
+                            </p>
+                            <p>
+                                Christchurch Casino is located in Victoria Street, the city’s best entertainment center. 
+                                At Christchurch Casino, 36 board games and 500 slot machines are always ready for our customers. 
+                                Located near Christchurch Casino. Peterborough Street has 266 parking spaces. 
+                                In addition, there is a chance to win free daily parking. The cost of parking is $ 3 per hour to $ 12 per day.
+                            </p>
+                            <p>
+                                For more information, please contact Darren Henderson for parking information (03) 372 8892. 
+                                In order to provide a peaceful, safe and mature atmosphere where customers enjoy their entertainment, 
+                                without interruptions with others, inappropriately dressed or acting rudely, 
+                                we we apply R20 & Dress Code - a smart and neat standard of appearance is a must.
+                            </p>
                         </div>
-                        <hr />
-
-                        <!-- BEGIN Carousel -->
-                        <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+                    </div>
+                    <hr />
+                    <div class="Hotel-list">
+                        <h3 class="title title--small">Similar hotels</h3>
+                        <div class="Hotels-table__row">
                             <div class="row">
-                                <div class="col-lg-8">
-                                    <div class="carousel-inner">
-                                        <div class="carousel-item active">
-                                            <img class="d-block w-100" src="src/assets/img/slider/slider1.jpg"
-                                                alt="First slide" />
+                                <div class="col-lg-7">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-6">
+                                            <div class="Hotels-table__sort">
+                                                <img src="src/assets/img/icons/number-one.svg" alt="number-one"
+                                                    title="number one" />
+                                                <img src="src/assets/img/hotels/hotel1.png" alt="hotel1"
+                                                    title="hotel1" class="Hotel__image" />
+                                            </div>
                                         </div>
-                                        <div class="carousel-item">
-                                            <img class="d-block w-100" src="src/assets/img/slider/slider2.jpg"
-                                                alt="Second slide" />
-                                        </div>
-                                        <div class="carousel-item">
-                                            <img class="d-block w-100" src="src/assets/img/slider/slider3.jpg"
-                                                alt="Third slide" />
-                                        </div>
-                                        <div class="carousel-item">
-                                            <img class="d-block w-100" src="src/assets/img/slider/slider4.jpg"
-                                                alt="Fourth slide" />
+                                        <div class="col-md-6 col-lg-6 valign">
+                                            <p class="Hotels__description">3 Avenue Georges Bassinet, 69260
+                                                Charbonnières-les-Bains, Frankrike</p>
                                         </div>
                                     </div>
-
-                                    <!-- BEGIN Carousel navigation -->
-                                    <a class="carousel-control-prev" href="#carouselExampleFade" role="button"
-                                        data-slide="prev">
-                                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                        <img src="src/assets/img/icons/arrow-left.svg" alt="arrow-left"
-                                            title="arrow-left" />
-                                    </a>
-                                    <a class="carousel-control-next" href="#carouselExampleFade" role="button"
-                                        data-slide="next">
-                                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                        <img src="src/assets/img/icons/arrow-right.svg" alt="arrow-right"
-                                            title="arrow-right" />
-                                    </a>
-                                    <!-- END Carousel navigation -->
-
                                 </div>
-                                <div class="col-lg-4">
-                                    <h3 class="title--small">Other photos:</h3>
-
-                                    <!-- BEGIN Carousel indicators -->
-                                    <div class="carousel-indicators">
-                                        <div class="row">
-                                            <div class="col-sm-6 col-md-3 col-lg-6">
-                                                <div data-target="#carouselExampleFade" data-slide-to="0"
-                                                    class="carousel-indicators__item active">
-                                                    <img class="d-block w-100" src="src/assets/img/slider/slider1.jpg"
-                                                        alt="First-slide" title="First slide" />
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-md-3 col-lg-6">
-                                                <div data-target="#carouselExampleFade" data-slide-to="1"
-                                                    class="carousel-indicators__item">
-                                                    <img class="d-block w-100" src="src/assets/img/slider/slider2.jpg"
-                                                        alt="Second-slide" title="Second slide" />
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-md-3 col-lg-6">
-                                                <div data-target="#carouselExampleFade" data-slide-to="2"
-                                                    class="carousel-indicators__item">
-                                                    <img class="d-block w-100" src="src/assets/img/slider/slider3.jpg"
-                                                        alt="Third-slide" title="Third slide" />
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-md-3 col-lg-6">
-                                                <div data-target="#carouselExampleFade" data-slide-to="3"
-                                                    class="carousel-indicators__item">
-                                                    <img class="d-block w-100" src="src/assets/img/slider/slider4.jpg"
-                                                        alt="Fourth-slide" title="Fourth slide" />
+                                <div class="col-lg-5">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-5">
+                                            <div class="Hotels__rating">
+                                                <span class="semibold Hotels__score">9.8</span>
+                                                <span class="Hotels__status">Expert rating</span>
+                                                <div class="stars">
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <!-- END Carousel indicators -->
-
-                                    <button class="button button--block button--border button--icon" data-toggle="modal"
-                                        data-target="#exampleModalCenter">SHOW ADDRESS
-                                        <svg class="icon icon-pin_sharp_circle">
-                                            <use xlink:href="#icon-pin_sharp_circle"></use>
-                                        </svg>
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- END Carousel -->
-
-                        <div class="Hotel-content">
-                            <h3 class="title title--small">Overview</h3>
-                            <div class="text">
-                                <p>
-                                    Motor Lodge Casino Casino offers free wi-fi. The hotel itself is a 10-minute walk from Christchurch Casino. 
-                                    Some have a spa bath. Each room has electric blankets, satellite TV. Two breakfasts are offered each morning.
-                                </p>
-                                <p>
-                                    Christchurch Casino is located in Victoria Street, the city’s best entertainment center. 
-                                    At Christchurch Casino, 36 board games and 500 slot machines are always ready for our customers. 
-                                    Located near Christchurch Casino. Peterborough Street has 266 parking spaces. 
-                                    In addition, there is a chance to win free daily parking. The cost of parking is $ 3 per hour to $ 12 per day.
-                                </p>
-                                <p>
-                                    For more information, please contact Darren Henderson for parking information (03) 372 8892. 
-                                    In order to provide a peaceful, safe and mature atmosphere where customers enjoy their entertainment, 
-                                    without interruptions with others, inappropriately dressed or acting rudely, 
-                                    we we apply R20 & Dress Code - a smart and neat standard of appearance is a must.
-                                </p>
-                            </div>
-                        </div>
-                        <hr />
-                        <div class="Hotel-list">
-                            <h3 class="title title--small">Similar hotels</h3>
-                            <div class="Hotels-table__row">
-                                <div class="row">
-                                    <div class="col-lg-7">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-6">
-                                                <div class="Hotels-table__sort">
-                                                    <img src="src/assets/img/icons/number-one.svg" alt="number-one"
-                                                        title="number one" />
-                                                    <img src="src/assets/img/hotels/hotel1.png" alt="hotel1"
-                                                        title="hotel1" class="Hotel__image" />
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-6 valign">
-                                                <p class="Hotels__description">3 Avenue Georges Bassinet, 69260
-                                                    Charbonnières-les-Bains, Frankrike</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-5">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-5">
-                                                <div class="Hotels__rating">
-                                                    <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Expert rating</span>
-                                                    <div class="stars">
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
-                                            </div>
+                                        <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
+                                            <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="Hotels-table__row">
-                                <div class="row">
-                                    <div class="col-lg-7">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-6">
-                                                <div class="Hotels-table__sort">
-                                                    <span class="Hotels-table__number">2</span>
-                                                    <img src="src/assets/img/hotels/hotel2.png" alt="hotel2"
-                                                        title="hotel2" class="Hotel__image" />
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-6 valign">
-                                                <p class="Hotels__description">150 Piccadilly, St James, London W1J 9BR,
-                                                    Storbritannien</p>
+                        </div>
+                        <div class="Hotels-table__row">
+                            <div class="row">
+                                <div class="col-lg-7">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-6">
+                                            <div class="Hotels-table__sort">
+                                                <span class="Hotels-table__number">2</span>
+                                                <img src="src/assets/img/hotels/hotel2.png" alt="hotel2"
+                                                    title="hotel2" class="Hotel__image" />
                                             </div>
                                         </div>
+                                        <div class="col-md-6 col-lg-6 valign">
+                                            <p class="Hotels__description">150 Piccadilly, St James, London W1J 9BR,
+                                                Storbritannien</p>
+                                        </div>
                                     </div>
-                                    <div class="col-lg-5">
-                                        <div class="row">
-                                            <div class="col-md-6 col-lg-5">
-                                                <div class="Hotels__rating">
-                                                    <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Expert rating</span>
-                                                    <div class="stars">
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                        <img src="src/assets/img/icons/star.svg" alt="star" title="star"
-                                                            class="stars__item" />
-                                                    </div>
+                                </div>
+                                <div class="col-lg-5">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-5">
+                                            <div class="Hotels__rating">
+                                                <span class="semibold Hotels__score">9.8</span>
+                                                <span class="Hotels__status">Expert rating</span>
+                                                <div class="stars">
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
+                                                    <img src="src/assets/img/icons/star.svg" alt="star" title="star"
+                                                        class="stars__item" />
                                                 </div>
                                             </div>
-                                            <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
-                                            </div>
+                                        </div>
+                                        <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
+                                            <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -451,11 +449,11 @@
                         </div>
                     </div>
                 </div>
-            </section>
-            <!-- END Hotels card section -->
+            </div>
+        </div>
+        <!-- END Hotels card -->
 
-        </article>
-    </main>
+    </div>
     <!-- END Main -->
 
     <!-- BEGIN Mobile burger navigation -->

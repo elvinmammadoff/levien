@@ -137,40 +137,38 @@
     <!-- END Header -->
 
     <!-- BEGIN Main -->
-    <main class="sticky">
-        <article>
+    <div class="Main sticky">
 
-            <!-- BEGIN About section -->
-            <section class="About content">
-                <div class="container">
-                    <h2 class="title">What are we <strong class="title__label">doing</strong></h2>
-                    <div class="About-card card card--padd text">
-                        <p>
-                            we help Swedish people find the best casino hotels as vacationers. 
-                            Most people who travel have different needs and requirements, 
-                            and help find a casino hotel that suits you to help with information 
-                            from experts in the industry and people who have already lived in hotels or have first-hand information about them.
-                        </p>
-                        <p>
-                            Many are helped by our list of ten best hotels in Europe, 
-                            both new and regular customers traveling to various European countries. 
-                            To create a list of the top 10 hotels in Europe, we have developed a comprehensive review 
-                            and rating system that has been very well received in the industry.
-                        </p>
-                        <p>
-                            Thanks to this, in recent years we have received a large number of subscribers and subscribers, 
-                            and we are constantly investing in improving our services. 
-                            Our main goal is to help our clients spend a wonderful vacation and make it easier for everyone planning a trip to Europe.
-                        </p>
-                        Address:<br />
-                        <div class="semibold underline">Tbilisi Avenue 49C, Chirag Plaza 8th floor, Baku, AZ 1065 Azerbaijan</div>
-                    </div>
+        <!-- BEGIN About -->
+        <div class="About content">
+            <div class="container">
+                <h2 class="title">What are we <strong class="title__label">doing</strong></h2>
+                <div class="About-card card card--padd text">
+                    <p>
+                        we help Swedish people find the best casino hotels as vacationers. 
+                        Most people who travel have different needs and requirements, 
+                        and help find a casino hotel that suits you to help with information 
+                        from experts in the industry and people who have already lived in hotels or have first-hand information about them.
+                    </p>
+                    <p>
+                        Many are helped by our list of ten best hotels in Europe, 
+                        both new and regular customers traveling to various European countries. 
+                        To create a list of the top 10 hotels in Europe, we have developed a comprehensive review 
+                        and rating system that has been very well received in the industry.
+                    </p>
+                    <p>
+                        Thanks to this, in recent years we have received a large number of subscribers and subscribers, 
+                        and we are constantly investing in improving our services. 
+                        Our main goal is to help our clients spend a wonderful vacation and make it easier for everyone planning a trip to Europe.
+                    </p>
+                    Address:<br />
+                    <div class="semibold underline">Tbilisi Avenue 49C, Chirag Plaza 8th floor, Baku, AZ 1065 Azerbaijan</div>
                 </div>
-            </section>
-            <!-- END About section -->
+            </div>
+        </div>
+        <!-- END About -->
 
-        </article>
-    </main>
+    </div>
     <!-- END Main -->
 
     <!-- BEGIN Mobile burger navigation -->
