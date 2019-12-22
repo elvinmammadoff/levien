@@ -135,6 +135,13 @@ figure {
     margin-top: 100px
 }
 
+.svg-icons {
+    position: absolute; 
+    width: 0; 
+    height: 0; 
+    overflow: hidden;
+}
+
 .card {
     background: #fff;
     border: 1px solid rgba(32, 27, 23, .02);

@@ -12,7 +12,7 @@
     <meta name="author" content="" />
 
     <!-- Title -->
-    <title>Royce - Hotel and Casino</title>
+    <title>Levien - Casino Resort and Hotel</title>
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="src/assets/css/bootstrap.min.css" />
@@ -51,7 +51,7 @@
     <!-- END Loading Section -->
 
     <!-- All Svg icons -->
-    <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1"
+    <svg aria-hidden="true" class="svg-icons" version="1.1"
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <defs>
 
