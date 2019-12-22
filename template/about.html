@@ -121,6 +121,24 @@
                             Top casino hotels
                         </a>
                     </li>
+                    <li class="Menu-item dropdown">
+                        <a href="src/documentation/index.html" title="Docs" class="Menu-item__link dropdown-toggle">
+                            Docs
+                        </a>
+                        <div class="dropdown-menu">
+                            <div class="dropdown-menu__content">
+                                <a class="dropdown-item" href="src/documentation/index.html#getting-started">Getting Started</a>
+                                <a class="dropdown-item" href="src/documentation/index.html#html-structure">HTML Structure</a>
+                                <a class="dropdown-item" href="src/documentation/index.htm#stylesheet-files">Stylesheet Files</a>
+                                <a class="dropdown-item" href="src/documentation/index.htm#javascript-files">Javascript Files</a>
+                                <a class="dropdown-item" href="src/documentation/index.htm#support-desk">Support Desk</a>
+                                <a class="dropdown-item" href="src/documentation/index.htm#files-resources">Files & Resources</a>
+                                <a class="dropdown-item" href="src/documentation/index.htm#php-file">PHP Code Explanation</a>
+                                <a class="dropdown-item" href="src/documentation/index.htm#google-map">Google Map Api</a>
+                                <a class="dropdown-item" href="src/documentation/index.htm#updates">Regular Updates</a>
+                            </div>
+                        </div>
+                    </li>
                     <li class="Menu-item">
                         <a href="contact.html" title="Contacts" class="Menu-item__link">
                             Contacts

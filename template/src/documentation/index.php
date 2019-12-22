@@ -76,7 +76,6 @@
 
                 <m id="main-content" class="large-9 large-pull-3 columns">
 
-                    <a name="introduction"></a>
                     <section id="introduction" class="section" data-magellan-destination="introduction">
                           
                           <h1>Howdy!</h1>
@@ -86,7 +85,6 @@
 
                     </section>
 
-                    <a name="getting-started"></a>
                     <section id="getting-started" class="section" data-magellan-destination="getting-started">
                           
                           <h1>1. Getting Started</h1>
@@ -108,7 +106,6 @@
 
                     </section>
 
-                    <a name="html-structure"></a>
                     <section id="html-structure" class="section"  data-magellan-destination="html-structure">
                           
                       <h1>2. HTML Structure</h1>
@@ -178,7 +175,6 @@
                           
 
                     </section>
-                          <a name="skeleton-details"></a>
                           <section id="skeleton-details" class="section"  data-magellan-destination="skeleton-details">
                                 
                                 <h2>2.1. Skeleton Details</h2>
@@ -200,7 +196,6 @@
                                 <p><code>footer class="Navbar clearfix"</code> contains the code like header and extra subscribe form.</p>
 
                           </section>
-                    <a name="stylesheet-files"></a>
                     <section id="stylesheet-files" class="section" data-magellan-destination="stylesheet-files">
                           
                           <h1>3. Stylesheet Files</h1>
@@ -232,7 +227,6 @@
                           </p>
                     </section>
 
-                    <a name="javascript-files"></a>
                     <section id="javascript-files" class="section" data-magellan-destination="javascript-files">
                           
                           <h1>4. Javascript Files</h1>
@@ -265,7 +259,6 @@
 
                     </section>
 
-                    <a name="support-desk"></a>
                     <section id="support-desk" class="section" data-magellan-destination="support-desk">
                           
                           <h1>5. Support Desk</h1>
@@ -322,7 +315,6 @@
 
                     </section>                    
 
-                    <a name="files-resources"></a>
                     <section id="files-resources" class="section" data-magellan-destination="files-resources">
                           
                           <h1>6. Files &amp; Resources</h1>
@@ -345,7 +337,6 @@
 
                     </section>
 
-                    <a name="php-file"></a>
                     <section id="php-file" class="section" data-magellan-destination="php-file">
                           
                           <h1>7. PHP Code Explanation</h1>
@@ -356,7 +347,6 @@
 
                     </section>
 
-                    <a name="google-map"></a>
                     <section id="google-map" class="section" data-magellan-destination="google-map">
                           
                           <h1>8. Google Map Api</h1>
@@ -367,7 +357,6 @@
 
                     </section>
 
-                    <a name="updates"></a>
                     <section id="updates" class="section" data-magellan-destination="updates">
                           
                           <h1>9. Regular Updates</h1>
@@ -389,9 +378,7 @@
         </section>
         
         <script src="js/vendor/jquery-1.11.2.min.js"></script>
-        <script src="js/foundation.js"></script>
         <script src="js/prism.js"></script>
-        <script src="js/smoothscroll.js"></script>
         <script src="js/main.js"></script>
     </body>
 </html>

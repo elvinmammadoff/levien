@@ -59,6 +59,10 @@ pre code {
    DOCS HEADER
    ========================================================================== */
 
+.fixed {
+    position: fixed!important;
+}
+
 .row {
     max-width: 100%;
 }
