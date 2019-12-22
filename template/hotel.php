@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru" dir="ltr">
+<html lang="en" dir="ltr">
 
 <!-- BEGIN Head -->
 <head>
@@ -94,9 +94,9 @@
 
                 <!-- BEGIN Logo section -->
                 <div class="Navbar-logo">
-                    <a href="/" title="Rafoz Farzo - Photography Template" class="Navbar-logo__link"></a>
+                    <a href="/" title="Levien - Casino Resort and Hotel" class="Navbar-logo__link"></a> 
                     <div class="Navbar-logo__info label label--gray">
-                        <div><span class="semibold">Казино Отель</span> для</div> шведских людей
+                        <div><span class="semibold">Casino Hotel</span> for</div> Swedish people 
                     </div>
                 </div>
                 <!-- END Logo section -->
@@ -112,18 +112,18 @@
                 <!-- BEGIN Menu -->
                 <ul class="Menu Menu--line">
                     <li class="Menu-item">
-                        <a href="/" title="Главная" class="Menu-item__link">
-                            Главная
+                        <a href="/" title="Home" class="Menu-item__link">
+                            Home
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="#" title="Лучшие отели казино" class="Menu-item__link">
-                            Лучшие отели казино
+                        <a href="#" title="Top casino hotels" class="Menu-item__link">
+                            Top casino hotels
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="/contact.html" title="Контакты" class="Menu-item__link">
-                            Контакты
+                        <a href="contact.html" title="Contacts" class="Menu-item__link">
+                            Contacts
                         </a>
                     </li>
                 </ul>
@@ -147,15 +147,13 @@
                         <div class="col-lg-6">
                             <div class="Banner__info">
                                 <h2 class="Banner__title">
-                                    Вы можете получить подробную <span class="Banner__label">информацию</span> об этом
-                                    поговорив нами
+                                    You can get detailed <span class="Banner__label">information</span> about this by talking to us.
                                 </h2>
                                 <p class="Banner__description">
-                                    Здесь вы <span class="semibold">можете</span> найти отзывы экспертов о лучших отелях
-                                    казино в <span class="semibold">Европе</span> для вас. Выберите отели казино.
+                                    Here you can find <span class="bold">expert reviews</span> of the best casino hotels in 
+                                    <span class="bold">Europe</span> for you. Select casino hotels.
                                 </p>
-                                <a href="hotel.html" class="button button--large" title="более">КОНСУЛЬТАЦИЯ
-                                    ЗАПРОСОВ</a>
+                                <a href="hotel.html" class="button button--large" title="REQUEST FOR CONSULTATIONS">REQUEST FOR CONSULTATIONS</a>
                             </div>
                         </div>
                         <div class="col-lg-4 offset-lg-2">
@@ -163,11 +161,11 @@
                             <!-- BEGIN Banner card -->
                             <div class="Banner-card Banner-card--details card card--padd card--bg">
                                 <div class="Banner-card__header">
-                                    <img src="src/assets/img/hotels/hotel2.png" alt="hotel1" title="hotel1"
+                                    <img src="src/assets/img/hotels/hotel2.png" alt="hotel2" title="hotel2"
                                         class="Hotel__image ml-0" />
                                     <div class="Hotels__rating">
                                         <span class="semibold Hotels__score">9.8</span>
-                                        <span class="Hotels__status">Экспертный рейтинг</span>
+                                        <span class="Hotels__status">Expert rating</span>
                                         <div class="stars">
                                             <img src="src/assets/img/icons/star.svg" alt="star" title="star"
                                                 class="stars__item" />
@@ -183,12 +181,12 @@
                                     </div>
                                 </div>
                                 <div class="Banner-card__body">
-                                    <div class="title--gray">АДРЕС:</div>
+                                    <div class="title--gray">ADDRESS:</div>
                                     <p class="Hotels__description">3 Avenue Georges Bassinet, 69260
                                         Charbonnières-les-Bains, Frankrike</p>
                                 </div>
                                 <button class="button button--block button--border button--icon" data-toggle="modal"
-                                    data-target="#viewMapModalCenter">ПОКАЗАТЬ АДРЕС
+                                    data-target="#viewMapModalCenter">SHOW ADDRESS
                                     <svg class="icon icon-pin_sharp_circle">
                                         <use xlink:href="#icon-pin_sharp_circle"></use>
                                     </svg>
@@ -200,8 +198,8 @@
                                     <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
                                         <div class="modal-content">
                                             <div class="modal-header">
-                                                <h3 class="modal-title" id="viewMapModalCenterTitle"><strong>Ритц
-                                                        Лондон</strong> 3 Avenue Georges Bassinet, 69260
+                                                <h3 class="modal-title" id="viewMapModalCenterTitle">
+                                                    <strong>Ritz London</strong> 3 Avenue Georges Bassinet, 69260
                                                     Charbonnières-les-Bains, Frankrike</h3>
                                                 <button type="button" class="close" data-dismiss="modal"
                                                     aria-label="Close">
@@ -237,13 +235,13 @@
                 <div class="container">
                     <div class="card card--padd">
                         <div class="Hotel-header">
-                            <img src="src/assets/img/hotels/hotel2.png" alt="hotel1" title="hotel1"
+                            <img src="src/assets/img/hotels/hotel2.png" alt="hotel2" title="hotel2"
                                 class="Hotel__image ml-0" />
                             <div class="Hotel-header__title">
-                                <h3 class="title title--medium">Ритц Лондон</h3>
+                                <h3 class="title title--medium">Ritz London</h3>
                                 <p class="text">
-                                    Здесь вы можете найти отзывы экспертов о лучших отелях казино в Европе для вас.
-                                    Выберите отели казино, которые подходят вам лучше всего в списке.
+                                    Here you can find expert reviews of the best casino hotels in Europe for you. 
+                                    Choose the casino hotels that suit you best on the list.
                                 </p>
                             </div>
                         </div>
@@ -289,7 +287,7 @@
 
                                 </div>
                                 <div class="col-lg-4">
-                                    <h3 class="title--small">Другие фотографии:</h3>
+                                    <h3 class="title--small">Other photos:</h3>
 
                                     <!-- BEGIN Carousel indicators -->
                                     <div class="carousel-indicators">
@@ -298,28 +296,28 @@
                                                 <div data-target="#carouselExampleFade" data-slide-to="0"
                                                     class="carousel-indicators__item active">
                                                     <img class="d-block w-100" src="src/assets/img/slider/slider1.jpg"
-                                                        alt="First-slide" title="First-slide" />
+                                                        alt="First-slide" title="First slide" />
                                                 </div>
                                             </div>
                                             <div class="col-sm-6 col-md-3 col-lg-6">
                                                 <div data-target="#carouselExampleFade" data-slide-to="1"
                                                     class="carousel-indicators__item">
                                                     <img class="d-block w-100" src="src/assets/img/slider/slider2.jpg"
-                                                        alt="Second-slide" title="Second-slide" />
+                                                        alt="Second-slide" title="Second slide" />
                                                 </div>
                                             </div>
                                             <div class="col-sm-6 col-md-3 col-lg-6">
                                                 <div data-target="#carouselExampleFade" data-slide-to="2"
                                                     class="carousel-indicators__item">
                                                     <img class="d-block w-100" src="src/assets/img/slider/slider3.jpg"
-                                                        alt="Third-slide" title="Third-slide" />
+                                                        alt="Third-slide" title="Third slide" />
                                                 </div>
                                             </div>
                                             <div class="col-sm-6 col-md-3 col-lg-6">
                                                 <div data-target="#carouselExampleFade" data-slide-to="3"
                                                     class="carousel-indicators__item">
                                                     <img class="d-block w-100" src="src/assets/img/slider/slider4.jpg"
-                                                        alt="Fourth-slide" title="Fourth-slide" />
+                                                        alt="Fourth-slide" title="Fourth slide" />
                                                 </div>
                                             </div>
                                         </div>
@@ -327,7 +325,7 @@
                                     <!-- END Carousel indicators -->
 
                                     <button class="button button--block button--border button--icon" data-toggle="modal"
-                                        data-target="#exampleModalCenter">ПОКАЗАТЬ АДРЕС
+                                        data-target="#exampleModalCenter">SHOW ADDRESS
                                         <svg class="icon icon-pin_sharp_circle">
                                             <use xlink:href="#icon-pin_sharp_circle"></use>
                                         </svg>
@@ -338,38 +336,29 @@
                         <!-- END Carousel -->
 
                         <div class="Hotel-content">
-                            <h3 class="title title--small">Обзор</h3>
+                            <h3 class="title title--small">Overview</h3>
                             <div class="text">
                                 <p>
-                                    В казино-казино Motor Lodge предоставляются бесплатные услуги wi-fi. Сам отель
-                                    находится в 10 минутах ходьбы от казино Крайстчерча.
-                                    В некоторых номерах есть гидромассажная ванна. В каждом номере есть электрические
-                                    одеяла, спутниковое телевидение.
-                                    Каждое утро гостям предлагаются два завтрака.
+                                    Motor Lodge Casino Casino offers free wi-fi. The hotel itself is a 10-minute walk from Christchurch Casino. 
+                                    Some have a spa bath. Each room has electric blankets, satellite TV. Two breakfasts are offered each morning.
                                 </p>
                                 <p>
-                                    Казино Крайстчерча расположено в районе Виктории-стрит, лучшем развлекательном
-                                    центре города.
-                                    В казино Крайстчерча 36 настольных игр и 500 игровых автоматов всегда готовы для
-                                    наших клиентов.
-                                    Находится недалеко от казино Крайстчерча. На автостоянке Peterborough Street есть
-                                    266 парковочных мест.
-                                    Кроме того, есть шанс выиграть бесплатную ежедневную парковку. Стоимость автостоянки
-                                    составляет 3 $ в час до 12 $ в день.
+                                    Christchurch Casino is located in Victoria Street, the city’s best entertainment center. 
+                                    At Christchurch Casino, 36 board games and 500 slot machines are always ready for our customers. 
+                                    Located near Christchurch Casino. Peterborough Street has 266 parking spaces. 
+                                    In addition, there is a chance to win free daily parking. The cost of parking is $ 3 per hour to $ 12 per day.
                                 </p>
                                 <p>
-                                    Для получения дополнительной информации, пожалуйста, свяжитесь с Даррен Хендерсон
-                                    для получения информации о парковке (03) 372 8892.
-                                    Чтобы обеспечить мирную, безопасную и зрелую атмосферу, где клиенты наслаждаются
-                                    своим развлечением, без перерывов с другими,
-                                    ненадлежащим образом одетыми или действуя грубо, мы применяем R20 & Dress Code -
-                                    умный и аккуратный стандарт внешнего вида является обязательным.
+                                    For more information, please contact Darren Henderson for parking information (03) 372 8892. 
+                                    In order to provide a peaceful, safe and mature atmosphere where customers enjoy their entertainment, 
+                                    without interruptions with others, inappropriately dressed or acting rudely, 
+                                    we we apply R20 & Dress Code - a smart and neat standard of appearance is a must.
                                 </p>
                             </div>
                         </div>
                         <hr />
                         <div class="Hotel-list">
-                            <h3 class="title title--small">Похожие отели</h3>
+                            <h3 class="title title--small">Similar hotels</h3>
                             <div class="Hotels-table__row">
                                 <div class="row">
                                     <div class="col-lg-7">
@@ -377,7 +366,7 @@
                                             <div class="col-md-6 col-lg-6">
                                                 <div class="Hotels-table__sort">
                                                     <img src="src/assets/img/icons/number-one.svg" alt="number-one"
-                                                        title="number-one" />
+                                                        title="number one" />
                                                     <img src="src/assets/img/hotels/hotel1.png" alt="hotel1"
                                                         title="hotel1" class="Hotel__image" />
                                                 </div>
@@ -393,7 +382,7 @@
                                             <div class="col-md-6 col-lg-5">
                                                 <div class="Hotels__rating">
                                                     <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Экспертный рейтинг</span>
+                                                    <span class="Hotels__status">Expert rating</span>
                                                     <div class="stars">
                                                         <img src="src/assets/img/icons/star.svg" alt="star" title="star"
                                                             class="stars__item" />
@@ -409,7 +398,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="более">ПОСЕТИТЕ СТРАНИЦА</a>
+                                                <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
                                             </div>
                                         </div>
                                     </div>
@@ -422,8 +411,8 @@
                                             <div class="col-md-6 col-lg-6">
                                                 <div class="Hotels-table__sort">
                                                     <span class="Hotels-table__number">2</span>
-                                                    <img src="src/assets/img/hotels/hotel2.png" alt="hotel1"
-                                                        title="hotel1" class="Hotel__image" />
+                                                    <img src="src/assets/img/hotels/hotel2.png" alt="hotel2"
+                                                        title="hotel2" class="Hotel__image" />
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-lg-6 valign">
@@ -437,7 +426,7 @@
                                             <div class="col-md-6 col-lg-5">
                                                 <div class="Hotels__rating">
                                                     <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Экспертный рейтинг</span>
+                                                    <span class="Hotels__status">Expert rating</span>
                                                     <div class="stars">
                                                         <img src="src/assets/img/icons/star.svg" alt="star" title="star"
                                                             class="stars__item" />
@@ -453,7 +442,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="более">ПОСЕТИТЕ СТРАНИЦА</a>
+                                                <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
                                             </div>
                                         </div>
                                     </div>
@@ -472,7 +461,7 @@
     <!-- BEGIN Mobile burger navigation -->
     <nav class="cd-nav-container burger-menu burger-menu--right" id="cd-nav">
         <div class="burger-menu__open">
-            <a href="index.html" class="burger-menu__logo" title="Rafoz Farzo - Photography Template"></a>
+            <a href="index.html" class="burger-menu__logo" title="Levien - Casino Resort and Hotel"></a>
             <div class="cd-nav-trigger cd-close-nav">
                 <div class="cd-nav__divider cd-nav__divider--top"></div>
                 <div class="cd-nav__divider cd-nav__divider--bottom"></div>
@@ -480,16 +469,16 @@
         </div>
         <ul class="burger-menu-list">
             <li class="burger-menu-list__item">
-                <a href="/" title="Главная" class="burger-menu-list__link">Главная</a>
+                <a href="/" title="Home" class="burger-menu-list__link">Home</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="#" title="Лучшие отели казино" class="burger-menu-list__link">Лучшие отели казино</a>
+                <a href="#" title="Top casino hotels" class="burger-menu-list__link">Top casino hotels</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="/about.html" title="Что мы делаем?" class="burger-menu-list__link">Что мы делаем?</a>
+                <a href="/about.html" title="What are we doing?" class="burger-menu-list__link">What are we doing?</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="/contact.html" title="Контакты" class="burger-menu-list__link">Контакты</a>
+                <a href="contact.html" title="Contacts" class="burger-menu-list__link">Contacts</a>
             </li>
         </ul>
     </nav>
@@ -512,25 +501,25 @@
         <nav class="Navbar__nav">
             <div class="container d-flex justify-content-between align-items-center">
                 <div class="Navbar-logo">
-                    <a href="/" title="Rafoz Farzo - Photography Template" class="Navbar-logo__link"></a>
+                    <a href="/" title="Levien - Casino Resort and Hotel" class="Navbar-logo__link"></a>
                     <div class="Navbar-logo__info label label--gray">
-                        <div><span class="semibold">Казино Отель</span> для</div> шведских людей
+                        <div><span class="semibold">Casino Hotel</span> for</div> Swedish people 
                     </div>
                 </div>
                 <ul class="Menu Menu--line">
                     <li class="Menu-item">
-                        <a href="/" title="Главная" class="Menu-item__link">
-                            Главная
+                        <a href="/" title="Home" class="Menu-item__link">
+                            Home
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="#" title="Лучшие отели казино" class="Menu-item__link">
-                            Лучшие отели казино
+                        <a href="#" title="Top casino hotels" class="Menu-item__link">
+                            Top casino hotels
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="/contact.html" title="Контакты" class="Menu-item__link">
-                            Контакты
+                        <a href="contact.html" title="Contacts" class="Menu-item__link">
+                            Contacts
                         </a>
                     </li>
                 </ul>
@@ -541,7 +530,7 @@
                     <div class="Form__group Form__group--one">
                         <input type="email" class="Form__input Form__input--group" id="email" name="email"
                             spellcheck="false" autocapitalize="off" required />
-                        <label for="email" class="Form__label Form__label--group">Электронная почта</label>
+                        <label for="email" class="Form__label Form__label--group">Email</label>
                         <span class="Form__send">
                             <input type="submit" value="" class="Form__submit" data-toggle="modal"
                                 data-target="#exampleModalCenter" />
@@ -551,7 +540,8 @@
                 <!-- END Subscribe -->
 
                 <!-- BEGIN Modal subscribe thanks message -->
-                <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
+                    aria-labelledby="exampleModalCenter" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-body p-3 h-auto text-center">

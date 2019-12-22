@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru" dir="ltr">
+<html lang="en" dir="ltr">
 
 <!-- BEGIN Head -->
 <head>
@@ -94,9 +94,9 @@
 
                 <!-- BEGIN Logo section -->
                 <div class="Navbar-logo">
-                    <a href="/" title="Rafoz Farzo - Photography Template" class="Navbar-logo__link"></a>
+                    <a href="/" title="Levien - Casino Resort and Hotel" class="Navbar-logo__link"></a> 
                     <div class="Navbar-logo__info label label--gray">
-                        <div><span class="semibold">Казино Отель</span> для</div> шведских людей
+                        <div><span class="semibold">Casino Hotel</span> for</div> Swedish people 
                     </div>
                 </div>
                 <!-- END Logo section -->
@@ -112,18 +112,18 @@
                 <!-- BEGIN Menu -->
                 <ul class="Menu Menu--line">
                     <li class="Menu-item">
-                        <a href="/" title="Главная" class="Menu-item__link">
-                            Главная
+                        <a href="/" title="Home" class="Menu-item__link">
+                            Home
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="#" title="Лучшие отели казино" class="Menu-item__link">
-                            Лучшие отели казино
+                        <a href="#" title="Top casino hotels" class="Menu-item__link">
+                            Top casino hotels
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="/contact.html" title="Контакты" class="Menu-item__link">
-                            Контакты
+                        <a href="contact.html" title="Contacts" class="Menu-item__link">
+                            Contacts
                         </a>
                     </li>
                 </ul>
@@ -147,23 +147,20 @@
                         <div class="col-lg-6">
                             <div class="Contact-info">
                                 <div class="container">
-                                    <h2 class="title">Теперь <strong class="title__label">свяжитесь</strong> с нами</h2>
+                                    <h2 class="title">Now <strong class="title__label">contact</strong> us</h2>
                                     <div class="text">
                                         <p>
-                                            Мы считаем, что двусторонняя связь является лучшей и поэтому мы сообщаем нашу
-                                            <span class="semibold">контактную</span> информацию,
-                                            если вы хотите дать нам обратную связь или какие-либо другие проблемы.
+                                            We believe that two-way communication is the best and therefore we provide our 
+                                            <span class="bold">contact information</span> if you want to give us feedback or any other problems.
                                         </p>
                                         <p>
-                                            Мы также считаем, что наши посетители и клиенты - наши лучшие критики.
-                                            Ваши <span class="semibold">отзывы</span> помогают нам не только расти в нашей
-                                            отрасли, но и в конечном итоге привлекать постоянных
-                                            <span class="semibold">клиентов</span>.
-                                            Поэтому мы с нетерпением ожидаем услышать от вас, а не только о том, что мы
-                                            делаем неправильно,
-                                            а также о том, что вам нравится на нашем сайте:
+                                            We also believe that our visitors and customers are our best critics. 
+                                            Your <span class="bold">feedback</span> helps us not only grow in our industry, 
+                                            but also ultimately attract regular <span class="bold">customers</span>.
+                                            Therefore, we look forward to hearing from you, and not only about what we are doing wrong, 
+                                            but also about what you like on our website:
                                         </p>
-                                        <div class="semibold underline Contact__email">sem@engintopcuoglu.com.tr</div>
+                                        <div class="bold underline Contact__email">sem@engintopcuoglu.com.tr</div>
                                     </div>
                                 </div>
                             </div>
@@ -176,24 +173,23 @@
                                     class="d-flex justify-content-between flex-wrap Contact-card card card--padd"
                                     autocomplete="off">
                                     <h2 class="title title--mini">
-                                        Отправьте нам 
-                                        <span class="semibold title__label">сообщение</span>
+                                        Send us a <span class="bold title__label">message</span>
                                     </h2>
                                     <div class="Form Form--row">
                                         <div class="Form__group Form__group--half">
                                             <input type="text" class="Form__input" id="name" spellcheck="false"
                                                 autocapitalize="off" autofocus required />
-                                            <label for="name" class="Form__label">Ваше имя</label>
+                                            <label for="name" class="Form__label">Your name</label>
                                         </div>
                                         <div class="Form__group Form__group--half">
                                             <input type="text" class="Form__input" id="surname" spellcheck="false"
                                                 autocapitalize="off" required />
-                                            <label for="surname" class="Form__label">Ваша фамилия</label>
+                                            <label for="surname" class="Form__label">Your surname</label>
                                         </div>
                                         <div class="Form__group">
                                             <input type="email" class="Form__input" id="email" spellcheck="false"
                                                 autocapitalize="off" required />
-                                            <label for="email" class="Form__label">Электронная почта</label>
+                                            <label for="email" class="Form__label">Email</label>
                                         </div>
                                         <div class="Form__group">
                                             <textarea rows="5" id="message" class="Form__input Form__input--textarea resize"
@@ -202,7 +198,7 @@
                                             <label for="message" class="Form__label">Сообщение</label>
                                         </div>
                                         <div class="Form__group align">
-                                            <input type="submit" value="ОТПРАВИТЬ СООБЩЕНИЕ" class="button button--medium"
+                                            <input type="submit" value="SEND A MESSAGE" class="button button--medium"
                                                 data-toggle="modal" data-target="#exampleModalCenter1" />
                                         </div>
                                     </div>
@@ -223,7 +219,7 @@
     <!-- BEGIN Mobile burger navigation -->
     <nav class="cd-nav-container burger-menu burger-menu--right" id="cd-nav">
         <div class="burger-menu__open">
-            <a href="index.html" class="burger-menu__logo" title="Rafoz Farzo - Photography Template"></a>
+            <a href="index.html" class="burger-menu__logo" title="Levien - Casino Resort and Hotel"></a>
             <div class="cd-nav-trigger cd-close-nav">
                 <div class="cd-nav__divider cd-nav__divider--top"></div>
                 <div class="cd-nav__divider cd-nav__divider--bottom"></div>
@@ -231,16 +227,16 @@
         </div>
         <ul class="burger-menu-list">
             <li class="burger-menu-list__item">
-                <a href="/" title="Главная" class="burger-menu-list__link">Главная</a>
+                <a href="/" title="Home" class="burger-menu-list__link">Home</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="#" title="Лучшие отели казино" class="burger-menu-list__link">Лучшие отели казино</a>
+                <a href="#" title="Top casino hotels" class="burger-menu-list__link">Top casino hotels</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="/about.html" title="Что мы делаем?" class="burger-menu-list__link">Что мы делаем?</a>
+                <a href="/about.html" title="What are we doing?" class="burger-menu-list__link">What are we doing?</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="/contact.html" title="Контакты" class="burger-menu-list__link">Контакты</a>
+                <a href="contact.html" title="Contacts" class="burger-menu-list__link">Contacts</a>
             </li>
         </ul>
     </nav>
@@ -263,25 +259,25 @@
         <nav class="Navbar__nav">
             <div class="container d-flex justify-content-between align-items-center">
                 <div class="Navbar-logo">
-                    <a href="/" title="Rafoz Farzo - Photography Template" class="Navbar-logo__link"></a>
+                    <a href="/" title="Levien - Casino Resort and Hotel" class="Navbar-logo__link"></a>
                     <div class="Navbar-logo__info label label--gray">
-                        <div><span class="semibold">Казино Отель</span> для</div> шведских людей
+                        <div><span class="semibold">Casino Hotel</span> for</div> Swedish people 
                     </div>
                 </div>
                 <ul class="Menu Menu--line">
                     <li class="Menu-item">
-                        <a href="/" title="Главная" class="Menu-item__link">
-                            Главная
+                        <a href="/" title="Home" class="Menu-item__link">
+                            Home
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="#" title="Лучшие отели казино" class="Menu-item__link">
-                            Лучшие отели казино
+                        <a href="#" title="Top casino hotels" class="Menu-item__link">
+                            Top casino hotels
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="/contact.html" title="Контакты" class="Menu-item__link">
-                            Контакты
+                        <a href="contact.html" title="Contacts" class="Menu-item__link">
+                            Contacts
                         </a>
                     </li>
                 </ul>
@@ -290,9 +286,9 @@
                 <!-- BEGIN Subscribe -->
                 <form action="#" method="post" class="Form">
                     <div class="Form__group Form__group--one">
-                        <input type="email" class="Form__input Form__input--group" id="subscribe" name="subscribe"
+                        <input type="email" class="Form__input Form__input--group" id="email" name="email"
                             spellcheck="false" autocapitalize="off" required />
-                        <label for="subscribe" class="Form__label Form__label--group">Электронная почта</label>
+                        <label for="email" class="Form__label Form__label--group">Email</label>
                         <span class="Form__send">
                             <input type="submit" value="" class="Form__submit" data-toggle="modal"
                                 data-target="#exampleModalCenter" />

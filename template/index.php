@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru" dir="ltr">
+<html lang="en" dir="ltr">
 
 <!-- BEGIN Head -->
 <head>
@@ -94,9 +94,9 @@
 
                 <!-- BEGIN Logo section -->
                 <div class="Navbar-logo">
-                    <a href="/" title="Rafoz Farzo - Photography Template" class="Navbar-logo__link"></a> 
+                    <a href="/" title="Levien - Casino Resort and Hotel" class="Navbar-logo__link"></a> 
                     <div class="Navbar-logo__info label label--gray">
-                        <div><span class="semibold">Казино Отель</span> для</div> шведских людей
+                        <div><span class="semibold">Casino Hotel</span> for</div> Swedish people 
                     </div>
                 </div>
                 <!-- END Logo section -->
@@ -112,18 +112,18 @@
                 <!-- BEGIN Menu -->
                 <ul class="Menu Menu--line">
                     <li class="Menu-item">
-                        <a href="/" title="Главная" class="Menu-item__link">
-                            Главная
+                        <a href="/" title="Home" class="Menu-item__link">
+                            Home
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="#" title="Лучшие отели казино" class="Menu-item__link">
-                            Лучшие отели казино
+                        <a href="#" title="Top casino hotels" class="Menu-item__link">
+                            Top casino hotels
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="/contact.html" title="Контакты" class="Menu-item__link">
-                            Контакты
+                        <a href="contact.html" title="Contacts" class="Menu-item__link">
+                            Contacts
                         </a>
                     </li>
                 </ul>
@@ -147,14 +147,14 @@
                         <div class="col-md-12 col-lg-6">
                             <div class="Banner__info">
                                 <h2 class="Banner__title">
-                                    Лучший скандинавский или европейский 
-                                    <span class="Banner__label">отель казино</span>
-                                    для шведских людей
+                                    The best Scandinavian or European
+                                    <span class="Banner__label">casino hotel</span>
+                                    for Swedish people
                                 </h2>
                                 <p class="Banner__description">
-                                    Здесь вы можете найти отзывы экспертов о лучших отелях казино в 
-                                    <span class="semibold">Европе</span> для вас. Выберите 
-                                    <span class="semibold">отели казино</span>, которые подходят вам лучше всего в списке.
+                                    Here you can find expert reviews of the best casino hotels in
+                                    <span class="bold">Europe</span> for you. Choose the 
+                                    <span class="bold">casino hotels</span> that suit you best on the list.
                                 </p>
                             </div>
                         </div>
@@ -166,8 +166,8 @@
                                     <img src="src/assets/img/icons/locked.svg" alt="locked" title="locked" />
                                     <div class="Banner-card__label">
                                         <h3 class="Banner-card__title">
-                                            Все отели <br>
-                                            <span class="semibold">100% гарантированы</span>
+                                            All hotels <br>
+                                            <span class="semibold">100% guaranteed</span>
                                         </h3>
                                     </div>
                                 </div>
@@ -176,19 +176,19 @@
                                         <svg class="icon icon-checked">
                                             <use xlink:href="#icon-checked"></use>
                                         </svg>
-                                        <h3 class="Banner-card-list__name">Лучшие отели</h3>
+                                        <h3 class="Banner-card-list__name">Top Hotels</h3>
                                     </div>
                                     <div class="Banner-card-list__item">
                                         <svg class="icon icon-checked">
                                             <use xlink:href="#icon-checked"></use>
                                         </svg>
-                                        <h3 class="Banner-card-list__name">Поддержка и общение лучшие в отелях.</h3>
+                                        <h3 class="Banner-card-list__name">Support and communication are the best in hotels.</h3>
                                     </div>
                                     <div class="Banner-card-list__item">
                                         <svg class="icon icon-checked">
                                             <use xlink:href="#icon-checked"></use>
                                         </svg>
-                                        <h3 class="Banner-card-list__name">Прямая ссылка</h3>
+                                        <h3 class="Banner-card-list__name">Direct link</h3>
                                     </div>
                                 </div>
                             </div>
@@ -211,13 +211,13 @@
                                         <div class="col-lg-6">
                                             <div class="Hotels-table__head">
                                                 <span class="semibold Hotels-table__id">#1</span>
-                                                <strong class="Hotels-table__title">ГОСТИНИЦА</strong>
+                                                <strong class="Hotels-table__title">HOTEL</strong>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="Hotels-table__head">
                                                 <span class="semibold Hotels-table__id">#2</span>
-                                                <strong class="Hotels-table__title">АДРЕС</strong>
+                                                <strong class="Hotels-table__title">ADDRESS</strong>
                                             </div>
                                         </div>
                                     </div>
@@ -227,13 +227,13 @@
                                         <div class="col-lg-5">
                                             <div class="Hotels-table__head">
                                                 <span class="semibold Hotels-table__id">#3</span>
-                                                <strong class="Hotels-table__title">ПОЛОЖЕНИЕ</strong>
+                                                <strong class="Hotels-table__title">POSITION</strong>
                                             </div>
                                         </div>
                                         <div class="col-lg-7">
                                             <div class="Hotels-table__head">
                                                 <span class="semibold Hotels-table__id">#4</span>
-                                                <strong class="Hotels-table__title">ПОДРОБНЫЙ ОБЗОР</strong>
+                                                <strong class="Hotels-table__title">DETAILED REVIEW</strong>
                                             </div>
                                         </div>
                                     </div>
@@ -248,7 +248,7 @@
                                             <div class="col-md-6 col-lg-6">
                                                 <div class="Hotels-table__sort">
                                                     <img src="src/assets/img/icons/number-one.svg" alt="number-one"
-                                                        title="number-one" />
+                                                        title="number one" />
                                                     <img src="src/assets/img/hotels/hotel1.png" alt="hotel1"
                                                         title="hotel1" class="Hotel__image" />
                                                 </div>
@@ -264,7 +264,7 @@
                                             <div class="col-md-6 col-lg-5">
                                                 <div class="Hotels__rating">
                                                     <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Экспертный рейтинг</span>
+                                                    <span class="Hotels__status">Expert rating</span>
                                                     <div class="stars">
                                                         <img src="src/assets/img/icons/star.svg" alt="star" title="star"
                                                             class="stars__item" />
@@ -280,7 +280,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="более">ПОСЕТИТЕ СТРАНИЦА</a>
+                                                <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
                                             </div>
                                         </div>
                                     </div>
@@ -294,8 +294,8 @@
                                             <div class="col-md-6 col-lg-6">
                                                 <div class="Hotels-table__sort">
                                                     <span class="Hotels-table__number">2</span>
-                                                    <img src="src/assets/img/hotels/hotel2.png" alt="hotel1"
-                                                        title="hotel1" class="Hotel__image" />
+                                                    <img src="src/assets/img/hotels/hotel2.png" alt="hotel2"
+                                                        title="hotel2" class="Hotel__image" />
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-lg-6 valign">
@@ -309,7 +309,7 @@
                                             <div class="col-md-6 col-lg-5">
                                                 <div class="Hotels__rating">
                                                     <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Экспертный рейтинг</span>
+                                                    <span class="Hotels__status">Expert rating</span>
                                                     <div class="stars">
                                                         <img src="src/assets/img/icons/star.svg" alt="star" title="star"
                                                             class="stars__item" />
@@ -325,7 +325,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="более">ПОСЕТИТЕ СТРАНИЦА</a>
+                                                <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
                                             </div>
                                         </div>
                                     </div>
@@ -338,8 +338,8 @@
                                             <div class="col-md-6 col-lg-6">
                                                 <div class="Hotels-table__sort">
                                                     <span class="Hotels-table__number">3</span>
-                                                    <img src="src/assets/img/hotels/hotel3.png" alt="hotel1"
-                                                        title="hotel1" class="Hotel__image" />
+                                                    <img src="src/assets/img/hotels/hotel3.png" alt="hotel3"
+                                                        title="hotel3" class="Hotel__image" />
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-lg-6 valign">
@@ -353,7 +353,7 @@
                                             <div class="col-md-6 col-lg-5">
                                                 <div class="Hotels__rating">
                                                     <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Экспертный рейтинг</span>
+                                                    <span class="Hotels__status">Expert rating</span>
                                                     <div class="stars">
                                                         <img src="src/assets/img/icons/star.svg" alt="star" title="star"
                                                             class="stars__item" />
@@ -369,7 +369,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="более">ПОСЕТИТЕ СТРАНИЦА</a>
+                                                <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
                                             </div>
                                         </div>
                                     </div>
@@ -382,8 +382,8 @@
                                             <div class="col-md-6 col-lg-6">
                                                 <div class="Hotels-table__sort">
                                                     <span class="Hotels-table__number">4</span>
-                                                    <img src="src/assets/img/hotels/hotel4.png" alt="hotel1"
-                                                        title="hotel1" class="Hotel__image" />
+                                                    <img src="src/assets/img/hotels/hotel4.png" alt="hotel4"
+                                                        title="hotel4" class="Hotel__image" />
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-lg-6 valign">
@@ -397,7 +397,7 @@
                                             <div class="col-md-6 col-lg-5">
                                                 <div class="Hotels__rating">
                                                     <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Экспертный рейтинг</span>
+                                                    <span class="Hotels__status">Expert rating</span>
                                                     <div class="stars">
                                                         <img src="src/assets/img/icons/star.svg" alt="star" title="star"
                                                             class="stars__item" />
@@ -413,7 +413,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="более">Go to Hotel Site</a>
+                                                <a href="hotel.html" class="button" title="Go to Hotel Site">Go to Hotel Site</a>
                                             </div>
                                         </div>
                                     </div>
@@ -426,8 +426,8 @@
                                             <div class="col-md-6 col-lg-6">
                                                 <div class="Hotels-table__sort">
                                                     <span class="Hotels-table__number">5</span>
-                                                    <img src="src/assets/img/hotels/hotel5.png" alt="hotel1"
-                                                        title="hotel1" class="Hotel__image" />
+                                                    <img src="src/assets/img/hotels/hotel5.png" alt="hotel5"
+                                                        title="hotel5" class="Hotel__image" />
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-lg-6 valign">
@@ -441,7 +441,7 @@
                                             <div class="col-md-6 col-lg-5">
                                                 <div class="Hotels__rating">
                                                     <span class="semibold Hotels__score">9.8</span>
-                                                    <span class="Hotels__status">Экспертный рейтинг</span>
+                                                    <span class="Hotels__status">Expert rating</span>
                                                     <div class="stars">
                                                         <img src="src/assets/img/icons/star.svg" alt="star" title="star"
                                                             class="stars__item" />
@@ -457,7 +457,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6 col-lg-7 valign d-flex justify-content-end">
-                                                <a href="hotel.html" class="button" title="более">ПОСЕТИТЕ СТРАНИЦА</a>
+                                                <a href="hotel.html" class="button" title="VISIT PAGE">VISIT PAGE</a>
                                             </div>
                                         </div>
                                     </div>
@@ -475,16 +475,13 @@
                     <div class="row">
                         <div class="col-lg-5">
                             <p class="text">
-                                Если вы любите играть в казино во время путешествия со своим партнером,
-                                вам может быть сложно решить, какой отель на каботаре выбрать.
-                                Нет проблем, используя наш список, вам гарантированно найдется тот, который подходит.
-                                Там вы можете наслаждаться настольными играми, слотами, покером и играми с большим
-                                трудом.
-                                Вы также можете получить специальные бонусы, если это ваш первый визит, или стать членом
-                                лояльности,
-                                если вы вернетесь несколько раз. Взгляните на наш список 10 лучших отелей в Европе,
-                                чтобы узнать,
-                                кто, скорее всего, подойдет вам
+                                If you like to play casino while traveling with your partner, 
+                                it may be difficult for you to decide which hotel on cabotare to choose. 
+                                No problem using our list, you are guaranteed to find the one that fits. <br> 
+                                There you can enjoy board games, slots, poker and games with great difficulty. 
+                                You can also receive special bonuses if this is your first visit, 
+                                or become a member of loyalty if you return several times.<br> 
+                                Take a look at our list of the top 10 hotels in Europe to find out who is most likely to suit you.
                             </p>
                         </div>
                         <div class="col-lg-6 offset-lg-1">
@@ -493,9 +490,8 @@
                                     <div class="testimonial-slider__item">
                                         <div class="testimonial-slider__review">
                                             <div class="testimonial-slider__quote">
-                                                <h3 class="testimonial-slider__text">Ребята смогли быстро погрузиться в
-                                                    специфику нашего бизнеса, изучить процессы, предложить улучшения и
-                                                    способы модернизации существующей инфраструктуры.</h3>
+                                                <h3 class="testimonial-slider__text">The guys were able to quickly plunge into the specifics of our business, 
+                                                    study the processes, propose improvements and ways to modernize the existing infrastructure.</h3>
                                                 <img src="src/assets/img/icons/quotes.svg" alt="quotes"
                                                     class="testimonial-slider__icon" />
                                             </div>
@@ -504,7 +500,7 @@
                                         <div class="testimonial-slider__details">
                                             <div class="testimonial-slider__user">
                                                 <div class="testimonial-slider-avatar">
-                                                    <img src="src/assets/img/avatars/avatar.png" alt="Svea Dmitiros"
+                                                    <img src="src/assets/img/avatars/avatar.png" alt="Svea-Dmitiros"
                                                         title="Svea Dmitiros"
                                                         class="testimonial-slider-avatar__image" />
                                                 </div>
@@ -515,9 +511,8 @@
                                     <div class="testimonial-slider__item">
                                         <div class="testimonial-slider__review">
                                             <div class="testimonial-slider__quote">
-                                                <h3 class="testimonial-slider__text">Доброго времени суток. Спасибо за
-                                                    прекрасную работу. Хотела бы сейчас прийти к Вам с бутылочкой
-                                                    шампанского.</h3>
+                                                <h3 class="testimonial-slider__text">Good day. Thanks for the great work. 
+                                                    I would like to come to you now with a bottle of champagne.</h3>
                                                 <img src="src/assets/img/icons/quotes.svg" alt="quotes"
                                                     class="testimonial-slider__icon" />
                                             </div>
@@ -526,7 +521,7 @@
                                         <div class="testimonial-slider__details">
                                             <div class="testimonial-slider__user">
                                                 <div class="testimonial-slider-avatar">
-                                                    <img src="src/assets/img/avatars/avatar2.jpg" alt="Leo Gill"
+                                                    <img src="src/assets/img/avatars/avatar2.jpg" alt="Leo-Gill"
                                                         title="Leo Gill" class="testimonial-slider-avatar__image" />
                                                 </div>
                                                 <h6 class="testimonial-slider__name semibold">Leo Gill</h6>
@@ -536,10 +531,9 @@
                                     <div class="testimonial-slider__item">
                                         <div class="testimonial-slider__review">
                                             <div class="testimonial-slider__quote">
-                                                <h3 class="testimonial-slider__text">Хочу сказать большое спасибо за
-                                                    отличный менеджмент и общее исполнение проекта. Сайт получился
-                                                    отличный, и с вами, как всегда, было очень приятно и комфортно
-                                                    работать! Спасибо!</h3>
+                                                <h3 class="testimonial-slider__text">I want to say thank you very much for the excellent management 
+                                                    and overall execution of the project. The site turned out to be excellent, and as always, 
+                                                    it was very pleasant and comfortable to work with you! Thanks!</h3>
                                                 <img src="src/assets/img/icons/quotes.svg" alt="quotes"
                                                     class="testimonial-slider__icon" />
                                             </div>
@@ -548,7 +542,7 @@
                                         <div class="testimonial-slider__details">
                                             <div class="testimonial-slider__user">
                                                 <div class="testimonial-slider-avatar">
-                                                    <img src="src/assets/img/avatars/avatar3.jpg" alt="Miyah Myles"
+                                                    <img src="src/assets/img/avatars/avatar3.jpg" alt="Miyah-Myles"
                                                         title="Miyah Myles" class="testimonial-slider-avatar__image" />
                                                 </div>
                                                 <h6 class="testimonial-slider__name semibold">Miyah Myles</h6>
@@ -558,9 +552,8 @@
                                     <div class="testimonial-slider__item">
                                         <div class="testimonial-slider__review">
                                             <div class="testimonial-slider__quote">
-                                                <h3 class="testimonial-slider__text">Работа с вами — одно удовольствие!
-                                                    Нам есть с чем сравнить, ведь от предыдущего подрядчика мы, в прямом
-                                                    смысле слова, сбежали!</h3>
+                                                <h3 class="testimonial-slider__text">Working with you is a pleasure! We have something to compare, 
+                                                    because we literally escaped from the previous contractor!</h3>
                                                 <img src="src/assets/img/icons/quotes.svg" alt="quotes"
                                                     class="testimonial-slider__icon" />
                                             </div>
@@ -569,7 +562,7 @@
                                         <div class="testimonial-slider__details">
                                             <div class="testimonial-slider__user">
                                                 <div class="testimonial-slider-avatar">
-                                                    <img src="src/assets/img/avatars/avatar4.jpg" alt="Sasha Ho"
+                                                    <img src="src/assets/img/avatars/avatar4.jpg" alt="Sasha-Ho"
                                                         title="Sasha Ho" class="testimonial-slider-avatar__image" />
                                                 </div>
                                                 <h6 class="testimonial-slider__name semibold">Sasha Ho</h6>
@@ -591,7 +584,7 @@
     <!-- BEGIN Mobile burger navigation -->
     <nav class="cd-nav-container burger-menu burger-menu--right" id="cd-nav">
         <div class="burger-menu__open">
-            <a href="index.html" class="burger-menu__logo" title="Rafoz Farzo - Photography Template"></a>
+            <a href="index.html" class="burger-menu__logo" title="Levien - Casino Resort and Hotel"></a>
             <div class="cd-nav-trigger cd-close-nav">
                 <div class="cd-nav__divider cd-nav__divider--top"></div>
                 <div class="cd-nav__divider cd-nav__divider--bottom"></div>
@@ -599,16 +592,16 @@
         </div>
         <ul class="burger-menu-list">
             <li class="burger-menu-list__item">
-                <a href="/" title="Главная" class="burger-menu-list__link">Главная</a>
+                <a href="/" title="Home" class="burger-menu-list__link">Home</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="#" title="Лучшие отели казино" class="burger-menu-list__link">Лучшие отели казино</a>
+                <a href="#" title="Top casino hotels" class="burger-menu-list__link">Top casino hotels</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="/about.html" title="Что мы делаем?" class="burger-menu-list__link">Что мы делаем?</a>
+                <a href="/about.html" title="What are we doing?" class="burger-menu-list__link">What are we doing?</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="/contact.html" title="Контакты" class="burger-menu-list__link">Контакты</a>
+                <a href="contact.html" title="Contacts" class="burger-menu-list__link">Contacts</a>
             </li>
         </ul>
     </nav>
@@ -631,25 +624,25 @@
         <nav class="Navbar__nav">
             <div class="container d-flex justify-content-between align-items-center">
                 <div class="Navbar-logo">
-                    <a href="/" title="Rafoz Farzo - Photography Template" class="Navbar-logo__link"></a>
+                    <a href="/" title="Levien - Casino Resort and Hotel" class="Navbar-logo__link"></a>
                     <div class="Navbar-logo__info label label--gray">
-                        <div><span class="semibold">Казино Отель</span> для</div> шведских людей
+                        <div><span class="semibold">Casino Hotel</span> for</div> Swedish people 
                     </div>
                 </div>
                 <ul class="Menu Menu--line">
                     <li class="Menu-item">
-                        <a href="/" title="Главная" class="Menu-item__link">
-                            Главная
+                        <a href="/" title="Home" class="Menu-item__link">
+                            Home
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="#" title="Лучшие отели казино" class="Menu-item__link">
-                            Лучшие отели казино
+                        <a href="#" title="Top casino hotels" class="Menu-item__link">
+                            Top casino hotels
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="/contact.html" title="Контакты" class="Menu-item__link">
-                            Контакты
+                        <a href="contact.html" title="Contacts" class="Menu-item__link">
+                            Contacts
                         </a>
                     </li>
                 </ul>
@@ -660,7 +653,7 @@
                     <div class="Form__group Form__group--one">
                         <input type="email" class="Form__input Form__input--group" id="email" name="email"
                             spellcheck="false" autocapitalize="off" required />
-                        <label for="email" class="Form__label Form__label--group">Электронная почта</label>
+                        <label for="email" class="Form__label Form__label--group">Email</label>
                         <span class="Form__send">
                             <input type="submit" value="" class="Form__submit" data-toggle="modal"
                                 data-target="#exampleModalCenter" />

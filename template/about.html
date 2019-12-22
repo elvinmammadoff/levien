@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru" dir="ltr">
+<html lang="en" dir="ltr">
 
 <!-- BEGIN Head -->
 <head>
@@ -94,9 +94,9 @@
 
                 <!-- BEGIN Logo section -->
                 <div class="Navbar-logo">
-                    <a href="/" title="Rafoz Farzo - Photography Template" class="Navbar-logo__link"></a>
+                    <a href="/" title="Levien - Casino Resort and Hotel" class="Navbar-logo__link"></a> 
                     <div class="Navbar-logo__info label label--gray">
-                        <div><span class="semibold">Казино Отель</span> для</div> шведских людей
+                        <div><span class="semibold">Casino Hotel</span> for</div> Swedish people 
                     </div>
                 </div>
                 <!-- END Logo section -->
@@ -112,18 +112,18 @@
                 <!-- BEGIN Menu -->
                 <ul class="Menu Menu--line">
                     <li class="Menu-item">
-                        <a href="/" title="Главная" class="Menu-item__link">
-                            Главная
+                        <a href="/" title="Home" class="Menu-item__link">
+                            Home
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="#" title="Лучшие отели казино" class="Menu-item__link">
-                            Лучшие отели казино
+                        <a href="#" title="Top casino hotels" class="Menu-item__link">
+                            Top casino hotels
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="/contact.html" title="Контакты" class="Menu-item__link">
-                            Контакты
+                        <a href="contact.html" title="Contacts" class="Menu-item__link">
+                            Contacts
                         </a>
                     </li>
                 </ul>
@@ -143,33 +143,27 @@
             <!-- BEGIN About section -->
             <section class="About content">
                 <div class="container">
-                    <h2 class="title">Что мы <strong class="title__label">делаем</strong></h2>
+                    <h2 class="title">What are we <strong class="title__label">doing</strong></h2>
                     <div class="About-card card card--padd text">
                         <p>
-                            На www.bastcasinorecensioner.com мы помогаем шведским людям в качестве отдыхающих найти
-                            лучшие отели в казино.
-                            Большинство людей, которые путешествуют имеют различные потребности и требования, а также
-                            помочь найти казино отель,
-                            который подходит вам помочь с информацией от специалистов в данной отрасли и людей,
-                            которые уже жили в гостиницах или имеют информацию из первых рук о них.
+                            we help Swedish people find the best casino hotels as vacationers. 
+                            Most people who travel have different needs and requirements, 
+                            and help find a casino hotel that suits you to help with information 
+                            from experts in the industry and people who have already lived in hotels or have first-hand information about them.
                         </p>
                         <p>
-                            Многим помогает наш список из десяти лучших отелей в Европе, как новых, так и постоянных
-                            клиентов, путешествующих
-                            по различным европейским странам. Чтобы создать список 10 лучших отелей в Европе, мы
-                            разработали всеобъемлющую
-                            систему обзора и оценки, которая была очень хорошо принята в отрасли.
+                            Many are helped by our list of ten best hotels in Europe, 
+                            both new and regular customers traveling to various European countries. 
+                            To create a list of the top 10 hotels in Europe, we have developed a comprehensive review 
+                            and rating system that has been very well received in the industry.
                         </p>
                         <p>
-                            Благодаря этому в последние годы мы получили большое количество подписчиков и подписчиков, и
-                            мы постоянно инвестируем
-                            в улучшение наших услуг. Наша главная цель - помочь нашим клиентам провести замечательный
-                            отпуск и облегчить всем,
-                            кто планирует поездку по Европе.
+                            Thanks to this, in recent years we have received a large number of subscribers and subscribers, 
+                            and we are constantly investing in improving our services. 
+                            Our main goal is to help our clients spend a wonderful vacation and make it easier for everyone planning a trip to Europe.
                         </p>
-                        Адрес:<br />
-                        <div class="semibold underline">Просп. Тбилиси 49С, Чираг Плаза 8 этаж, Баку, AZ 1065
-                            Азербайджан </div>
+                        Address:<br />
+                        <div class="semibold underline">Tbilisi Avenue 49C, Chirag Plaza 8th floor, Baku, AZ 1065 Azerbaijan</div>
                     </div>
                 </div>
             </section>
@@ -182,7 +176,7 @@
     <!-- BEGIN Mobile burger navigation -->
     <nav class="cd-nav-container burger-menu burger-menu--right" id="cd-nav">
         <div class="burger-menu__open">
-            <a href="index.html" class="burger-menu__logo" title="Rafoz Farzo - Photography Template"></a>
+            <a href="index.html" class="burger-menu__logo" title="Levien - Casino Resort and Hotel"></a>
             <div class="cd-nav-trigger cd-close-nav">
                 <div class="cd-nav__divider cd-nav__divider--top"></div>
                 <div class="cd-nav__divider cd-nav__divider--bottom"></div>
@@ -190,16 +184,16 @@
         </div>
         <ul class="burger-menu-list">
             <li class="burger-menu-list__item">
-                <a href="/" title="Главная" class="burger-menu-list__link">Главная</a>
+                <a href="/" title="Home" class="burger-menu-list__link">Home</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="#" title="Лучшие отели казино" class="burger-menu-list__link">Лучшие отели казино</a>
+                <a href="#" title="Top casino hotels" class="burger-menu-list__link">Top casino hotels</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="/about.html" title="Что мы делаем?" class="burger-menu-list__link">Что мы делаем?</a>
+                <a href="/about.html" title="What are we doing?" class="burger-menu-list__link">What are we doing?</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="/contact.html" title="Контакты" class="burger-menu-list__link">Контакты</a>
+                <a href="contact.html" title="Contacts" class="burger-menu-list__link">Contacts</a>
             </li>
         </ul>
     </nav>
@@ -222,25 +216,25 @@
         <nav class="Navbar__nav">
             <div class="container d-flex justify-content-between align-items-center">
                 <div class="Navbar-logo">
-                    <a href="/" title="Rafoz Farzo - Photography Template" class="Navbar-logo__link"></a>
+                    <a href="/" title="Levien - Casino Resort and Hotel" class="Navbar-logo__link"></a>
                     <div class="Navbar-logo__info label label--gray">
-                        <div><span class="semibold">Казино Отель</span> для</div> шведских людей
+                        <div><span class="semibold">Casino Hotel</span> for</div> Swedish people 
                     </div>
                 </div>
                 <ul class="Menu Menu--line">
                     <li class="Menu-item">
-                        <a href="/" title="Главная" class="Menu-item__link">
-                            Главная
+                        <a href="/" title="Home" class="Menu-item__link">
+                            Home
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="#" title="Лучшие отели казино" class="Menu-item__link">
-                            Лучшие отели казино
+                        <a href="#" title="Top casino hotels" class="Menu-item__link">
+                            Top casino hotels
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="/contact.html" title="Контакты" class="Menu-item__link">
-                            Контакты
+                        <a href="contact.html" title="Contacts" class="Menu-item__link">
+                            Contacts
                         </a>
                     </li>
                 </ul>
@@ -251,7 +245,7 @@
                     <div class="Form__group Form__group--one">
                         <input type="email" class="Form__input Form__input--group" id="email" name="email"
                             spellcheck="false" autocapitalize="off" required />
-                        <label for="email" class="Form__label Form__label--group">Электронная почта</label>
+                        <label for="email" class="Form__label Form__label--group">Email</label>
                         <span class="Form__send">
                             <input type="submit" value="" class="Form__submit" data-toggle="modal"
                                 data-target="#exampleModalCenter" />

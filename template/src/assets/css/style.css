@@ -82,6 +82,10 @@ figure {
     font-weight: 500
 }
 
+.bold {
+    font-weight: 600
+}
+
 .sticky {
     padding-top: 74px
 }
