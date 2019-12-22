@@ -203,7 +203,7 @@
             <!-- BEGIN Hotels section -->
             <section class="Hotels section clearfix">
                 <div class="container">
-                    <h2 class="title">Our <strong class="title__label">Hotels</strong></h2>
+                    <h3 class="title">Our <strong class="title__label">Hotels</strong></h3>
                     <div class="Hotels-table">
                         <div class="Hotels-table__header">
                             <div class="row">
