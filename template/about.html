@@ -129,13 +129,13 @@
                             <div class="dropdown-menu__content">
                                 <a class="dropdown-item" href="src/documentation/index.html#getting-started">Getting Started</a>
                                 <a class="dropdown-item" href="src/documentation/index.html#html-structure">HTML Structure</a>
-                                <a class="dropdown-item" href="src/documentation/index.htm#stylesheet-files">Stylesheet Files</a>
-                                <a class="dropdown-item" href="src/documentation/index.htm#javascript-files">Javascript Files</a>
-                                <a class="dropdown-item" href="src/documentation/index.htm#support-desk">Support Desk</a>
-                                <a class="dropdown-item" href="src/documentation/index.htm#files-resources">Files & Resources</a>
-                                <a class="dropdown-item" href="src/documentation/index.htm#php-file">PHP Code Explanation</a>
-                                <a class="dropdown-item" href="src/documentation/index.htm#google-map">Google Map Api</a>
-                                <a class="dropdown-item" href="src/documentation/index.htm#updates">Regular Updates</a>
+                                <a class="dropdown-item" href="src/documentation/index.html#stylesheet-files">Stylesheet Files</a>
+                                <a class="dropdown-item" href="src/documentation/index.html#javascript-files">Javascript Files</a>
+                                <a class="dropdown-item" href="src/documentation/index.html#support-desk">Support Desk</a>
+                                <a class="dropdown-item" href="src/documentation/index.html#files-resources">Files & Resources</a>
+                                <a class="dropdown-item" href="src/documentation/index.html#php-file">PHP Code Explanation</a>
+                                <a class="dropdown-item" href="src/documentation/index.html#google-map">Google Map Api</a>
+                                <a class="dropdown-item" href="src/documentation/index.html#updates">Regular Updates</a>
                             </div>
                         </div>
                     </li>
