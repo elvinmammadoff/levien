@@ -135,21 +135,18 @@
   <!-- END Header-->
 
   <!-- BEGIN Main -->
-  <main class="sticky">
-    <article>
-
-      <!-- BEGIN Sections-->
+  <div class="Main sticky">
 
       <!-- Banner -->
-      <section class="Banner section clearfix"></section>
+      <section class="Banner section"></section>
 
       <!-- Hotels -->
-      <section class="Hotel-card section clearfix"></section>
+      <section class="Hotels section"></section>
 
-      <!-- END Sections-->
+      <!-- Review -->
+      <section class="Review section"></section>
 
-    </article>
-  </main>
+  </div>
   <!-- END Main -->
 
   <!-- BEGIN Mobile burger navigation -->
@@ -187,7 +184,7 @@
 
                                 <p><code>header class="Navbar sticky-header"</code> contains the code logo and primary navigation at the top.</p>
 
-                                <p><code>main class="sticky"</code> contains the page specific content as well as their details.</p>
+                                <p><code>div class="Main sticky"</code> contains the page specific content as well as their details.</p>
 
                                 <p>Further, skeleton shows two additional markup tags.<code>nav class="cd-nav-container burger-menu burger-menu--right" id="cd-nav"</code> contains the menu for the mobile version. <code>div class="cd-overlay"</code> when mobile menu is shown, this layer is visible under mobile menu above content, too.</p>
 
