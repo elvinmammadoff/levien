@@ -326,7 +326,7 @@
 
                           <ul>
                             <li><a href="https://jquery.com/" target="_blank">jQuery</a></li>
-                            <li><a href="https://getbootstrap.com/docs/3.3/" target="_blank">Bootstrap</a></li>
+                            <li><a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" target="_blank">Bootstrap 4</a></li>
                             <li><a href="http://kenwheeler.github.io/slick/" target="_blank">Slick Slider</a></li>
                             <li> <strong>Fonts used</strong>
                               <ul>
@@ -343,7 +343,7 @@
 
                           <br>
 
-                          <p><code>index.php</code> file for deploy and init on docker container or heroku<p>
+                          <p>Php files for deploy and init on docker container or heroku<p>
 
                     </section>
 

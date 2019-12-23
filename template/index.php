@@ -94,7 +94,7 @@
 
                 <!-- BEGIN Logo section -->
                 <div class="Navbar-logo">
-                    <a href="/" title="Levien - Casino Resort and Hotel" class="Navbar-logo__link"></a> 
+                    <a href="index.html" title="Levien - Casino Resort and Hotel" class="Navbar-logo__link"></a> 
                     <div class="Navbar-logo__info label label--gray">
                         <div><span class="semibold">Casino Hotel</span> for</div> Swedish people 
                     </div>
@@ -112,12 +112,12 @@
                 <!-- BEGIN Menu -->
                 <ul class="Menu Menu--line">
                     <li class="Menu-item">
-                        <a href="/" title="Home" class="Menu-item__link">
+                        <a href="index.html" title="Home" class="Menu-item__link">
                             Home
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="#" title="Top casino hotels" class="Menu-item__link">
+                        <a href="top-hotel-list.html" title="Top casino hotels" class="Menu-item__link">
                             Top casino hotels
                         </a>
                     </li>
@@ -138,6 +138,11 @@
                                 <a class="dropdown-item" href="src/documentation/index.html#updates">Regular Updates</a>
                             </div>
                         </div>
+                    </li>
+                    <li class="Menu-item">
+                        <a href="about.html" title="About" class="Menu-item__link">
+                            About
+                        </a>
                     </li>
                     <li class="Menu-item">
                         <a href="contact.html" title="Contacts" class="Menu-item__link">
@@ -326,7 +331,7 @@
                                     <div class="row">
                                         <div class="col-md-6 col-lg-5">
                                             <div class="Hotels__rating">
-                                                <span class="semibold Hotels__score">9.8</span>
+                                                <span class="semibold Hotels__score">9.6</span>
                                                 <span class="Hotels__status">Expert rating</span>
                                                 <div class="stars">
                                                     <img src="src/assets/img/icons/star.svg" alt="star" title="star"
@@ -370,7 +375,7 @@
                                     <div class="row">
                                         <div class="col-md-6 col-lg-5">
                                             <div class="Hotels__rating">
-                                                <span class="semibold Hotels__score">9.8</span>
+                                                <span class="semibold Hotels__score">9.2</span>
                                                 <span class="Hotels__status">Expert rating</span>
                                                 <div class="stars">
                                                     <img src="src/assets/img/icons/star.svg" alt="star" title="star"
@@ -414,7 +419,7 @@
                                     <div class="row">
                                         <div class="col-md-6 col-lg-5">
                                             <div class="Hotels__rating">
-                                                <span class="semibold Hotels__score">9.8</span>
+                                                <span class="semibold Hotels__score">8.7</span>
                                                 <span class="Hotels__status">Expert rating</span>
                                                 <div class="stars">
                                                     <img src="src/assets/img/icons/star.svg" alt="star" title="star"
@@ -458,7 +463,7 @@
                                     <div class="row">
                                         <div class="col-md-6 col-lg-5">
                                             <div class="Hotels__rating">
-                                                <span class="semibold Hotels__score">9.8</span>
+                                                <span class="semibold Hotels__score">8.3</span>
                                                 <span class="Hotels__status">Expert rating</span>
                                                 <div class="stars">
                                                     <img src="src/assets/img/icons/star.svg" alt="star" title="star"
@@ -609,13 +614,13 @@
         </div>
         <ul class="burger-menu-list">
             <li class="burger-menu-list__item">
-                <a href="/" title="Home" class="burger-menu-list__link">Home</a>
+                <a href="index.html" title="Home" class="burger-menu-list__link">Home</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="#" title="Top casino hotels" class="burger-menu-list__link">Top casino hotels</a>
+                <a href="top-hotel-list.html" title="Top casino hotels" class="burger-menu-list__link">Top casino hotels</a>
             </li>
             <li class="burger-menu-list__item">
-                <a href="/about.html" title="What are we doing?" class="burger-menu-list__link">What are we doing?</a>
+                <a href="about.html" title="What are we doing?" class="burger-menu-list__link">What are we doing?</a>
             </li>
             <li class="burger-menu-list__item">
                 <a href="contact.html" title="Contacts" class="burger-menu-list__link">Contacts</a>
@@ -641,19 +646,19 @@
         <nav class="Navbar__nav">
             <div class="container d-flex justify-content-between align-items-center">
                 <div class="Navbar-logo">
-                    <a href="/" title="Levien - Casino Resort and Hotel" class="Navbar-logo__link"></a>
+                    <a href="index.html" title="Levien - Casino Resort and Hotel" class="Navbar-logo__link"></a>
                     <div class="Navbar-logo__info label label--gray">
                         <div><span class="semibold">Casino Hotel</span> for</div> Swedish people 
                     </div>
                 </div>
                 <ul class="Menu Menu--line">
                     <li class="Menu-item">
-                        <a href="/" title="Home" class="Menu-item__link">
+                        <a href="index.html" title="Home" class="Menu-item__link">
                             Home
                         </a>
                     </li>
                     <li class="Menu-item">
-                        <a href="#" title="Top casino hotels" class="Menu-item__link">
+                        <a href="top-hotel-list.html" title="Top casino hotels" class="Menu-item__link">
                             Top casino hotels
                         </a>
                     </li>
